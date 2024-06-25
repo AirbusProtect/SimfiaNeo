@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simfia:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:altarica="http://www.apsys.eads.net/simfia/altarica/1.0" xmlns:cutseq="http://www.apsys.eads.net/simfia/cutseq/1.0" xmlns:safetyanalysis="http://www.apsys.eads.net/simfia/safetyanalysis/1.0" xmlns:simfia="http://www.apsys.eads.net/simfia/1.0" xmlns:userdata="http://www.apsys.eads.net/simfia/userdata/1.0" id="_2iK9wDBpEemPPrxdRSNeIA" name="FireDetection" description="The whole content is provided under the following terms&#xD;&#xA;&#xD;&#xA;Copyright (c) 2024 AIRBUS Protect SAS&#xD;&#xA;&#xD;&#xA;All rights reserved. This program and the accompanying materials are made available under the terms of the  Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) which accompanies this distribution, and is available at https://creativecommons.org/licenses/by-sa/4.0/" version="1.5.0">
+  <appliedUserDataDefinitions href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_ff8X0hVWEeeqzp2dGFP3yA"/>
+  <appliedUserDataDefinitions href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_kF4oMhVWEeeqzp2dGFP3yA"/>
+  <appliedUserDataDefinitions href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_nuoQghVWEeeqzp2dGFP3yA"/>
+  <appliedUserDataDefinitions href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_-AgikhlFEeeiq47Vi3ICTg"/>
+  <appliedUserDataDefinitions href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_-AgikhlFEeeiq47Vi3ICTk"/>
+  <appliedUserDataDefinitions href="#_W2Cb0DBsEemPPrxdRSNeIA"/>
+  <appliedUserDataDefinitions href="#_cWSYUDBsEemPPrxdRSNeIA"/>
+  <ownedSystem id="_2iK9wTBpEemPPrxdRSNeIA" name="FireDetection" defaultClassBehavior="Repairable" defaultMissionTime="10">
+    <top id="_2iK9wzBpEemPPrxdRSNeIA" name="FireDetection" compositeBrickClass="_2iK9wjBpEemPPrxdRSNeIA">
+      <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_ScO4EDBuEemPPrxdRSNeIA" outConnectorType="_SW2o0DBuEemPPrxdRSNeIA"/>
+      <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_GF2UwDBvEemPPrxdRSNeIA" outConnectorType="_GFuY8DBvEemPPrxdRSNeIA"/>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_stGrMDBrEemPPrxdRSNeIA" name="ExternalEvents" originalInstance="_slKQMzBrEemPPrxdRSNeIA" atomicBrickClass="_slHz4DBrEemPPrxdRSNeIA">
+        <ownedEventInstances id="_stHSQDBrEemPPrxdRSNeIA" eventType="_slJpEzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_stHSQjBrEemPPrxdRSNeIA" stateVariableType="_slJpEDBrEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_suDtcDBrEemPPrxdRSNeIA" name="PowerSupply" originalInstance="_st-N-TBrEemPPrxdRSNeIA" atomicBrickClass="_st9m0DBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_y0qC0DBsEemPPrxdRSNeIA" outConnectorType="_yuaQ4DBsEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_2AlzUzBsEemPPrxdRSNeIA" eventType="_2AfFoDBsEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_2AlzUjBsEemPPrxdRSNeIA" stateVariableType="_2AeekDBsEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_s7g6oDBrEemPPrxdRSNeIA" name="sensor1" originalInstance="_s7Zl-TBrEemPPrxdRSNeIA" atomicBrickClass="_s7Y-0DBrEemPPrxdRSNeIA">
+        <ownedUserData id="_JwB1kDBxEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_JwB1kTBxEemPPrxdRSNeIA">
+            <value href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_Z3dFUBVWEeeqzp2dGFP3yA"/>
+          </ownedValue>
+          <definition href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_ff8X0hVWEeeqzp2dGFP3yA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_y0ecoDBsEemPPrxdRSNeIA" inConnectorType="_yuaQ5DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_pOxRMTBtEemPPrxdRSNeIA" outConnectorType="_pOpVYDBtEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_s7g6oTBrEemPPrxdRSNeIA" eventType="_s7Zl4zBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_s7g6ojBrEemPPrxdRSNeIA" eventType="_s7Zl7jBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_s7g6ozBrEemPPrxdRSNeIA" stateVariableType="_s7Zl4DBrEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_tBp-4DBrEemPPrxdRSNeIA" name="relay1" originalInstance="_tBlGejBrEemPPrxdRSNeIA" atomicBrickClass="_tBkfUDBrEemPPrxdRSNeIA">
+        <ownedUserData id="_OPts8DBxEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_OPts8TBxEemPPrxdRSNeIA" value="_Kwg0cDBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_zckXYDBsEemPPrxdRSNeIA" inConnectorType="_zblf8DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_xBoJgDBtEemPPrxdRSNeIA" inConnectorType="_w6YSADBtEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_R_5hYDBuEemPPrxdRSNeIA" outConnectorType="_R-sngDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_tBp-4TBrEemPPrxdRSNeIA" eventType="_tBlGZDBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_tBp-4jBrEemPPrxdRSNeIA" eventType="_tBlGbzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_tBp-4zBrEemPPrxdRSNeIA" stateVariableType="_tBlGYTBrEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_uyecQDBrEemPPrxdRSNeIA" name="buzzer1" originalInstance="_uyV5YDBrEemPPrxdRSNeIA" atomicBrickClass="_uyTdIDBrEemPPrxdRSNeIA">
+        <ownedUserData id="_L3sssDBxEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_L3sssTBxEemPPrxdRSNeIA" value="_MMaKsDBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_R_5hYTBuEemPPrxdRSNeIA" inConnectorType="_R-snhDBuEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_UeiuEDBuEemPPrxdRSNeIA" outConnectorType="_UdqkUDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_RX6UUzBuEemPPrxdRSNeIA" eventType="_RXxKYDBuEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_RX6UUjBuEemPPrxdRSNeIA" stateVariableType="_RXwjUDBuEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_8VFlUDBuEemPPrxdRSNeIA" name="sensor2" originalInstance="_8UOpsDBuEemPPrxdRSNeIA" atomicBrickClass="_s7Y-0DBrEemPPrxdRSNeIA">
+        <ownedUserData id="_PN6akDBxEemPPrxdRSNeIA" definition="_cWSYUDBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_PN6akTBxEemPPrxdRSNeIA" value="_SA6f8DBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_8VFlUTBuEemPPrxdRSNeIA" inConnectorType="_yuaQ5DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_8VFlUjBuEemPPrxdRSNeIA" outConnectorType="_pOpVYDBtEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_8VFlUzBuEemPPrxdRSNeIA" eventType="_s7Zl4zBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_8VFlVDBuEemPPrxdRSNeIA" eventType="_s7Zl7jBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_8VFlVTBuEemPPrxdRSNeIA" stateVariableType="_s7Zl4DBrEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="__fz04DBuEemPPrxdRSNeIA" name="relay2" originalInstance="__ftHMDBuEemPPrxdRSNeIA" atomicBrickClass="_tBkfUDBrEemPPrxdRSNeIA">
+        <ownedUserData id="_OeCc0DBxEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_OeCc0TBxEemPPrxdRSNeIA" value="_Kwg0cDBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedUserData id="_Po2DEDBxEemPPrxdRSNeIA" definition="_cWSYUDBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_Po2DETBxEemPPrxdRSNeIA" value="_SA6f8DBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__fz04TBuEemPPrxdRSNeIA" inConnectorType="_zblf8DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__fz04jBuEemPPrxdRSNeIA" inConnectorType="_w6YSADBtEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__fz04zBuEemPPrxdRSNeIA" outConnectorType="_R-sngDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="__fz05DBuEemPPrxdRSNeIA" eventType="_tBlGZDBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="__fz05TBuEemPPrxdRSNeIA" eventType="_tBlGbzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="__fz05jBuEemPPrxdRSNeIA" stateVariableType="_tBlGYTBrEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_6dZ1gDBvEemPPrxdRSNeIA" name="buzzer2" originalInstance="_6dTu4DBvEemPPrxdRSNeIA" atomicBrickClass="_uyTdIDBrEemPPrxdRSNeIA">
+        <ownedUserData id="_MIpSwDBxEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_MIpSwTBxEemPPrxdRSNeIA" value="_MMaKsDBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedUserData id="_QMKykDBxEemPPrxdRSNeIA" definition="_cWSYUDBsEemPPrxdRSNeIA">
+          <ownedValue xsi:type="userdata:EnumValue" id="_QMKykTBxEemPPrxdRSNeIA" value="_SA6f8DBsEemPPrxdRSNeIA"/>
+        </ownedUserData>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_6dZ1gTBvEemPPrxdRSNeIA" inConnectorType="_R-snhDBuEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_6dZ1gjBvEemPPrxdRSNeIA" outConnectorType="_UdqkUDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_6dZ1gzBvEemPPrxdRSNeIA" eventType="_RXxKYDBuEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_6dZ1hDBvEemPPrxdRSNeIA" stateVariableType="_RXwjUDBuEemPPrxdRSNeIA"/>
+      </ownedSubInstances>
+    </top>
+    <ownedPhases xsi:type="altarica:DefaultPhase" id="_2iK9xDBpEemPPrxdRSNeIA" name="Default" missionTime="10"/>
+    <ownedObservers id="_OKww8DBwEemPPrxdRSNeIA" name="LossFireDetection" occurenceNumber="1">
+      <expression id="_OKxYATBwEemPPrxdRSNeIA" expression="(Alarm1 = loss) and (Alarm2 = loss)"/>
+    </ownedObservers>
+    <ownedObservers id="_R745MDBwEemPPrxdRSNeIA" name="SpuriousFireDetection" occurenceNumber="1">
+      <expression id="_R745MjBwEemPPrxdRSNeIA" expression="(Alarm1 =erroneous) or (Alarm2 = erroneous)"/>
+    </ownedObservers>
+    <userBricks xsi:type="altarica:CompositeBrickClass" id="_2iK9wjBpEemPPrxdRSNeIA" name="FireDetection">
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_SW2o0DBuEemPPrxdRSNeIA" name="Alarm1" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <assertion id="_clKamzBvEemPPrxdRSNeIA" expression="loss"/>
+      </ownedConnectors>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_GFuY8DBvEemPPrxdRSNeIA" name="Alarm2" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <assertion id="_mDsKdjBvEemPPrxdRSNeIA" expression="loss"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_2iMy8DBpEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_slKQMzBrEemPPrxdRSNeIA" name="ExternalEvents" atomicBrickClass="_slHz4DBrEemPPrxdRSNeIA">
+        <ownedEventInstances id="_slKQNDBrEemPPrxdRSNeIA" eventType="_slJpEzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_slKQNjBrEemPPrxdRSNeIA" stateVariableType="_slJpEDBrEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_st-N-TBrEemPPrxdRSNeIA" name="PowerSupply" atomicBrickClass="_st9m0DBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_yuaQ4zBsEemPPrxdRSNeIA" outConnectorType="_yuaQ4DBsEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_2AlzUTBsEemPPrxdRSNeIA" eventType="_2AfFoDBsEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_2AlzUDBsEemPPrxdRSNeIA" stateVariableType="_2AeekDBsEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_s7Zl-TBrEemPPrxdRSNeIA" name="sensor1" atomicBrickClass="_s7Y-0DBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_yuaQ5TBsEemPPrxdRSNeIA" inConnectorType="_yuaQ5DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_pOxRMDBtEemPPrxdRSNeIA" outConnectorType="_pOpVYDBtEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_s7Zl-jBrEemPPrxdRSNeIA" eventType="_s7Zl4zBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_s7Zl-zBrEemPPrxdRSNeIA" eventType="_s7Zl7jBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_s7Zl_DBrEemPPrxdRSNeIA" stateVariableType="_s7Zl4DBrEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_tBlGejBrEemPPrxdRSNeIA" name="relay1" atomicBrickClass="_tBkfUDBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_zbmHADBsEemPPrxdRSNeIA" inConnectorType="_zblf8DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_w6YSATBtEemPPrxdRSNeIA" inConnectorType="_w6YSADBtEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_R-sngzBuEemPPrxdRSNeIA" outConnectorType="_R-sngDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_tBlGezBrEemPPrxdRSNeIA" eventType="_tBlGZDBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_tBlGfDBrEemPPrxdRSNeIA" eventType="_tBlGbzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_tBlGfTBrEemPPrxdRSNeIA" stateVariableType="_tBlGYTBrEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_uyV5YDBrEemPPrxdRSNeIA" name="buzzer1" atomicBrickClass="_uyTdIDBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_R-snhTBuEemPPrxdRSNeIA" inConnectorType="_R-snhDBuEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_UdrLYjBuEemPPrxdRSNeIA" outConnectorType="_UdqkUDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_RX6UUTBuEemPPrxdRSNeIA" eventType="_RXxKYDBuEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_RX6UUDBuEemPPrxdRSNeIA" stateVariableType="_RXwjUDBuEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_8UOpsDBuEemPPrxdRSNeIA" name="sensor2" atomicBrickClass="_s7Y-0DBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_8UP30DBuEemPPrxdRSNeIA" inConnectorType="_yuaQ5DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_8UQe4DBuEemPPrxdRSNeIA" outConnectorType="_pOpVYDBtEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_8UQe4jBuEemPPrxdRSNeIA" eventType="_s7Zl4zBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_8UQe4zBuEemPPrxdRSNeIA" eventType="_s7Zl7jBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_8UQe4TBuEemPPrxdRSNeIA" stateVariableType="_s7Zl4DBrEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="__ftHMDBuEemPPrxdRSNeIA" name="relay2" atomicBrickClass="_tBkfUDBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__ftHMTBuEemPPrxdRSNeIA" inConnectorType="_zblf8DBsEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__ftHMjBuEemPPrxdRSNeIA" inConnectorType="_w6YSADBtEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__ftHMzBuEemPPrxdRSNeIA" outConnectorType="_R-sngDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="__ftHNTBuEemPPrxdRSNeIA" eventType="_tBlGZDBrEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="__ftHNjBuEemPPrxdRSNeIA" eventType="_tBlGbzBrEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="__ftHNDBuEemPPrxdRSNeIA" stateVariableType="_tBlGYTBrEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_6dTu4DBvEemPPrxdRSNeIA" name="buzzer2" atomicBrickClass="_uyTdIDBrEemPPrxdRSNeIA">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_6dTu4TBvEemPPrxdRSNeIA" inConnectorType="_R-snhDBuEemPPrxdRSNeIA"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_6dTu4jBvEemPPrxdRSNeIA" outConnectorType="_UdqkUDBuEemPPrxdRSNeIA"/>
+        <ownedEventInstances id="_6dUV8TBvEemPPrxdRSNeIA" eventType="_RXxKYDBuEemPPrxdRSNeIA"/>
+        <ownedStateVariableInstances id="_6dUV8DBvEemPPrxdRSNeIA" stateVariableType="_RXwjUDBuEemPPrxdRSNeIA"/>
+      </ownedSubBricks>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_yua38TBsEemPPrxdRSNeIA" source="_yuaQ4zBsEemPPrxdRSNeIA" target="_yuaQ5TBsEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_zbmHAjBsEemPPrxdRSNeIA" source="_yuaQ4zBsEemPPrxdRSNeIA" target="_zbmHADBsEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_w6YSAzBtEemPPrxdRSNeIA" source="_pOxRMDBtEemPPrxdRSNeIA" target="_w6YSATBtEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_R-snhzBuEemPPrxdRSNeIA" source="_R-sngzBuEemPPrxdRSNeIA" target="_R-snhTBuEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:HierarchicalOutLink" id="_UdrLZDBuEemPPrxdRSNeIA" target="_SW2o0DBuEemPPrxdRSNeIA" source="_UdrLYjBuEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_DEvUMTBvEemPPrxdRSNeIA" source="_yuaQ4zBsEemPPrxdRSNeIA" target="_8UP30DBuEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_EZVIkTBvEemPPrxdRSNeIA" source="_yuaQ4zBsEemPPrxdRSNeIA" target="__ftHMTBuEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_FRoCgTBvEemPPrxdRSNeIA" source="_8UQe4DBuEemPPrxdRSNeIA" target="__ftHMjBuEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:HierarchicalOutLink" id="_8H1-ETBvEemPPrxdRSNeIA" target="_GFuY8DBvEemPPrxdRSNeIA" source="_6dTu4jBvEemPPrxdRSNeIA"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_8jszoTBvEemPPrxdRSNeIA" source="__ftHMzBuEemPPrxdRSNeIA" target="_6dTu4TBvEemPPrxdRSNeIA"/>
+    </userBricks>
+    <userBricks xsi:type="altarica:AtomicBrickClass" id="_slHz4DBrEemPPrxdRSNeIA" name="ExternalEvents">
+      <ownedUserData id="_havwsDBsEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:EnumValue" id="_haw-0DBsEemPPrxdRSNeIA" value="_Kwg0cDBsEemPPrxdRSNeIA"/>
+      </ownedUserData>
+      <ownedUserData id="_maNUUDBsEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:EnumValue" id="_mnpTYDBsEemPPrxdRSNeIA">
+          <value href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_Z3dFUBVWEeeqzp2dGFP3yA"/>
+        </ownedValue>
+        <definition href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_ff8X0hVWEeeqzp2dGFP3yA"/>
+      </ownedUserData>
+      <ownedDefaultStyle id="_slJCADBrEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+      <ownedStateVariables id="_slJpEDBrEemPPrxdRSNeIA" name="status_Engine">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+        <initialValue id="_slJpEjBrEemPPrxdRSNeIA" expression="nominal"/>
+      </ownedStateVariables>
+      <ownedEvents id="_slJpEzBrEemPPrxdRSNeIA" name="Engine_fire">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_slJpFTBrEemPPrxdRSNeIA" lambdaCst="_i0CLgJr5EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedTransitions id="_slKQITBrEemPPrxdRSNeIA" event="_slJpEzBrEemPPrxdRSNeIA" effectsExpression="status_Engine := failed">
+        <effects id="_slKQJTBrEemPPrxdRSNeIA" assignedVariable="_slJpEDBrEemPPrxdRSNeIA">
+          <expression id="_slKQJzBrEemPPrxdRSNeIA" expression="failed"/>
+        </effects>
+        <guard id="_slKQIzBrEemPPrxdRSNeIA" expression="status_Engine = nominal"/>
+      </ownedTransitions>
+    </userBricks>
+    <userBricks xsi:type="altarica:AtomicBrickClass" id="_st9m0DBrEemPPrxdRSNeIA" name="PowerSupply" behavior="NotRepairable">
+      <ownedUserData id="_qy5y4DBsEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:EnumValue" id="_qy5y4TBsEemPPrxdRSNeIA">
+          <value href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_78NIgBlFEeeiq47Vi3ICTg"/>
+        </ownedValue>
+        <definition href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_-AgikhlFEeeiq47Vi3ICTg"/>
+      </ownedUserData>
+      <ownedUserData id="_rC8aADBsEemPPrxdRSNeIA" definition="_W2Cb0DBsEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:EnumValue" id="_rC9BEDBsEemPPrxdRSNeIA" value="_Kwg0cDBsEemPPrxdRSNeIA"/>
+      </ownedUserData>
+      <ownedUserData id="_rQft0DBsEemPPrxdRSNeIA" definition="_cWSYUDBsEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:EnumValue" id="_rQft0TBsEemPPrxdRSNeIA" value="_TZFMwDBsEemPPrxdRSNeIA"/>
+      </ownedUserData>
+      <ownedUserData id="_TH8nMDBxEemPPrxdRSNeIA">
+        <ownedValue xsi:type="userdata:AlphanumericValue" id="_TH8nMTBxEemPPrxdRSNeIA" value="ATA24"/>
+        <definition href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_-AgikhlFEeeiq47Vi3ICTk"/>
+      </ownedUserData>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_yuaQ4DBsEemPPrxdRSNeIA" name="o1">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+        <assertion id="_yuaQ4jBsEemPPrxdRSNeIA" expression="if ((state1 = failed)) then failed else nominal"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_st9m0TBrEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+      <ownedStateVariables id="_2AeekDBsEemPPrxdRSNeIA" name="state1">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+        <initialValue id="_2AeekjBsEemPPrxdRSNeIA" expression="nominal"/>
+      </ownedStateVariables>
+      <ownedEvents id="_2AfFoDBsEemPPrxdRSNeIA" name="failure">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_2AfFojBsEemPPrxdRSNeIA" lambda="0.00001" lambdaCst="_k_4YAJr5EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedTransitions id="_2AfFpDBsEemPPrxdRSNeIA" event="_2AfFoDBsEemPPrxdRSNeIA" effectsExpression="state1 := failed">
+        <effects id="_2AfFqDBsEemPPrxdRSNeIA" assignedVariable="_2AeekDBsEemPPrxdRSNeIA">
+          <expression id="_2AfFqjBsEemPPrxdRSNeIA" expression="failed"/>
+        </effects>
+        <guard id="_2AfFpjBsEemPPrxdRSNeIA" expression="state1 = nominal"/>
+      </ownedTransitions>
+    </userBricks>
+    <defaultDomain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+    <defaultColor href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+  </ownedSystem>
+  <ownedLibrary id="_2iK9xTBpEemPPrxdRSNeIA" name="FireDetection">
+    <ownedUserDataDefinitions id="_W2Cb0DBsEemPPrxdRSNeIA" name="Zone" type="_FDbV0DBsEemPPrxdRSNeIA">
+      <applicability>Brick</applicability>
+      <defaultValue xsi:type="userdata:EnumValue" id="_YkI8hjBsEemPPrxdRSNeIA" value="_I6JvwDBsEemPPrxdRSNeIA"/>
+    </ownedUserDataDefinitions>
+    <ownedUserDataDefinitions id="_cWSYUDBsEemPPrxdRSNeIA" name="Channel" type="_OlaCYDBsEemPPrxdRSNeIA">
+      <applicability>Brick</applicability>
+      <defaultValue xsi:type="userdata:EnumValue" id="_dvFXVTBsEemPPrxdRSNeIA" value="_QUgBcDBsEemPPrxdRSNeIA"/>
+    </ownedUserDataDefinitions>
+    <ownedUserDataTypes xsi:type="userdata:EnumDataType" id="_FDbV0DBsEemPPrxdRSNeIA" name="ZoneType" type="Enum">
+      <ownedLiterals id="_I6JvwDBsEemPPrxdRSNeIA" name="Front"/>
+      <ownedLiterals id="_Kwg0cDBsEemPPrxdRSNeIA" name="Bay"/>
+      <ownedLiterals id="_MMaKsDBsEemPPrxdRSNeIA" name="Cockpit"/>
+    </ownedUserDataTypes>
+    <ownedUserDataTypes xsi:type="userdata:EnumDataType" id="_OlaCYDBsEemPPrxdRSNeIA" name="ChannelType" type="Enum">
+      <ownedLiterals id="_QUgBcDBsEemPPrxdRSNeIA" name="Channel1"/>
+      <ownedLiterals id="_SA6f8DBsEemPPrxdRSNeIA" name="Channel2"/>
+      <ownedLiterals id="_TZFMwDBsEemPPrxdRSNeIA" name="PowerSupply"/>
+    </ownedUserDataTypes>
+    <ownedLibraries id="_ihUgUJr4EeyWAe4bpmSf8w" name="Failure rates">
+      <ownedConstants id="_HA7Q8Jr5EeyWAe4bpmSf8w" name="Buzzer ineffective" valueType="DECIMAL_VALUE" DecimalValue="0.00001"/>
+      <ownedConstants id="_2SDf4Jr4EeyWAe4bpmSf8w" name="Relay stuck closed" valueType="DECIMAL_VALUE" DecimalValue="1E-7"/>
+      <ownedConstants id="_00D34Jr4EeyWAe4bpmSf8w" name="Relay stuck open" valueType="DECIMAL_VALUE" DecimalValue="0.000002"/>
+      <ownedConstants id="_mUZJUJr4EeyWAe4bpmSf8w" name="Sensor erroneous" valueType="DECIMAL_VALUE" DecimalValue="0.000004"/>
+      <ownedConstants id="_kfDYUJr4EeyWAe4bpmSf8w" name="Sensor loss" valueType="DECIMAL_VALUE" DecimalValue="0.000002"/>
+    </ownedLibraries>
+    <ownedLibraries id="_fuNDAJr5EeyWAe4bpmSf8w" name="External system failure rates">
+      <ownedConstants id="_k_4YAJr5EeyWAe4bpmSf8w" name="Loss of power supply" valueType="DECIMAL_VALUE" DecimalValue="0.00001"/>
+    </ownedLibraries>
+    <ownedLibraries id="_h3E0AJr5EeyWAe4bpmSf8w" name="External events">
+      <ownedConstants id="_i0CLgJr5EeyWAe4bpmSf8w" name="Fire" valueType="DECIMAL_VALUE" DecimalValue="0.000001"/>
+    </ownedLibraries>
+    <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_s7Y-0DBrEemPPrxdRSNeIA" name="Sensor">
+      <ownedConnectors xsi:type="altarica:InConnector" id="_yuaQ5DBsEemPPrxdRSNeIA" name="i1">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+      </ownedConnectors>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_pOpVYDBtEemPPrxdRSNeIA" name="o2" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <assertion id="_pwGcoTBtEemPPrxdRSNeIA" expression="case{(i1 = failed)or (state1 = loss) : loss,&#xD;&#xA;(state1 = erroneous):erroneous,&#xD;&#xA;else nominal}"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_s7Y-0TBrEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+        <ownedLayout id="_-BHeUON5Eeq-YtqC8UXB3Q" height="80" width="120">
+          <ownedConnectorPositions id="_-BIFYON5Eeq-YtqC8UXB3Q" x="-2" y="35" connector="_yuaQ5DBsEemPPrxdRSNeIA"/>
+          <ownedConnectorPositions id="_-BIscON5Eeq-YtqC8UXB3Q" x="120" y="35" connector="_pOpVYDBtEemPPrxdRSNeIA"/>
+          <nameLabelPosition id="_-BJTgON5Eeq-YtqC8UXB3Q" y="5"/>
+        </ownedLayout>
+      </ownedDefaultStyle>
+      <ownedStateVariables id="_s7Zl4DBrEemPPrxdRSNeIA" name="state1" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <initialValue id="_s7Zl4jBrEemPPrxdRSNeIA" expression="nominal"/>
+      </ownedStateVariables>
+      <ownedEvents id="_s7Zl4zBrEemPPrxdRSNeIA" name="totalLoss">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_s7Zl5TBrEemPPrxdRSNeIA" lambda="0.000002" lambdaCst="_kfDYUJr4EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedEvents id="_s7Zl7jBrEemPPrxdRSNeIA" name="erroneousEvent" category="Repair">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_s7Zl8DBrEemPPrxdRSNeIA" lambda="0.000004" lambdaCst="_mUZJUJr4EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedTransitions id="_s7Zl5zBrEemPPrxdRSNeIA" event="_s7Zl4zBrEemPPrxdRSNeIA" effectsExpression="state1 := loss">
+        <effects id="_FYAP8TByEemPPrxdRSNeIA" assignedVariable="_s7Zl4DBrEemPPrxdRSNeIA">
+          <expression id="_FYAP8zByEemPPrxdRSNeIA" expression="loss"/>
+        </effects>
+        <guard id="_s7Zl6TBrEemPPrxdRSNeIA" expression="(state1 = nominal)"/>
+      </ownedTransitions>
+      <ownedTransitions id="_s7Zl8jBrEemPPrxdRSNeIA" event="_s7Zl7jBrEemPPrxdRSNeIA" effectsExpression="state1 := erroneous">
+        <effects id="_lm7AwTBtEemPPrxdRSNeIA" assignedVariable="_s7Zl4DBrEemPPrxdRSNeIA">
+          <expression id="_lm7AwzBtEemPPrxdRSNeIA" expression="erroneous"/>
+        </effects>
+        <guard id="_s7Zl9DBrEemPPrxdRSNeIA" expression="(state1 = nominal)"/>
+      </ownedTransitions>
+    </ownedBricks>
+    <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_tBkfUDBrEemPPrxdRSNeIA" name="Relay">
+      <ownedConnectors xsi:type="altarica:InConnector" id="_zblf8DBsEemPPrxdRSNeIA" name="iPower">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+      </ownedConnectors>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_w6YSADBtEemPPrxdRSNeIA" name="iCommand" domain="_7k8MsDBsEemPPrxdRSNeIA"/>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_R-sngDBuEemPPrxdRSNeIA" name="outPower" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <assertion id="_ZDp4ATBuEemPPrxdRSNeIA" expression="case{(iPower = failed) or (status= stuckedOpen) : loss,&#xD;&#xA;&#x9;(status = stuckedClosed) or (iCommand = erroneous) : erroneous,&#xD;&#xA;else iCommand}"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_tBlGYDBrEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+        <ownedLayout id="_-BKhr-N5Eeq-YtqC8UXB3Q" height="80" width="120">
+          <ownedConnectorPositions id="_-BLIsON5Eeq-YtqC8UXB3Q" x="55" y="72" connector="_zblf8DBsEemPPrxdRSNeIA"/>
+          <ownedConnectorPositions id="_-BLIseN5Eeq-YtqC8UXB3Q" x="-2" y="35" connector="_w6YSADBtEemPPrxdRSNeIA"/>
+          <ownedConnectorPositions id="_-BLIsuN5Eeq-YtqC8UXB3Q" x="112" y="35" connector="_R-sngDBuEemPPrxdRSNeIA"/>
+          <nameLabelPosition id="_-BLIs-N5Eeq-YtqC8UXB3Q" y="5"/>
+        </ownedLayout>
+      </ownedDefaultStyle>
+      <ownedStateVariables id="_tBlGYTBrEemPPrxdRSNeIA" name="status" domain="_AN8_MDBtEemPPrxdRSNeIA">
+        <initialValue id="_tBlGYzBrEemPPrxdRSNeIA" expression="nominal"/>
+      </ownedStateVariables>
+      <ownedEvents id="_tBlGZDBrEemPPrxdRSNeIA" name="stuckOpen">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_tBlGZjBrEemPPrxdRSNeIA" lambda="0.000002" lambdaCst="_00D34Jr4EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedEvents id="_tBlGbzBrEemPPrxdRSNeIA" name="stuckClosed" category="Repair">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_tBlGcTBrEemPPrxdRSNeIA" lambda="1E-7" lambdaCst="_2SDf4Jr4EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedTransitions id="_tBlGaDBrEemPPrxdRSNeIA" event="_tBlGZDBrEemPPrxdRSNeIA" effectsExpression="status := stuckedOpen">
+        <effects id="_qOCgYTBuEemPPrxdRSNeIA" assignedVariable="_tBlGYTBrEemPPrxdRSNeIA">
+          <expression id="_qOCgYzBuEemPPrxdRSNeIA" expression="stuckedOpen"/>
+        </effects>
+        <guard id="_tBlGajBrEemPPrxdRSNeIA" expression="(status = nominal)"/>
+      </ownedTransitions>
+      <ownedTransitions id="_tBlGczBrEemPPrxdRSNeIA" event="_tBlGbzBrEemPPrxdRSNeIA" effectsExpression="status := stuckedClosed">
+        <effects id="_rUytETBuEemPPrxdRSNeIA" assignedVariable="_tBlGYTBrEemPPrxdRSNeIA">
+          <expression id="_rUytEzBuEemPPrxdRSNeIA" expression="stuckedClosed"/>
+        </effects>
+        <guard id="_tBlGdTBrEemPPrxdRSNeIA" expression="(status =nominal)"/>
+      </ownedTransitions>
+    </ownedBricks>
+    <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_uyTdIDBrEemPPrxdRSNeIA" name="Buzzer" behavior="NotRepairable">
+      <ownedConnectors xsi:type="altarica:InConnector" id="_R-snhDBuEemPPrxdRSNeIA" name="i1" domain="_7k8MsDBsEemPPrxdRSNeIA"/>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_UdqkUDBuEemPPrxdRSNeIA" name="o2" domain="_7k8MsDBsEemPPrxdRSNeIA">
+        <assertion id="_a_MiXjBvEemPPrxdRSNeIA" expression="if ((i1 = loss) or (state1 = failed)) then loss else i1"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_uyUEMDBrEemPPrxdRSNeIA" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+        <ownedLayout id="_-BMW0eN5Eeq-YtqC8UXB3Q" height="80" width="120">
+          <ownedConnectorPositions id="_-BMW0uN5Eeq-YtqC8UXB3Q" x="-2" y="35" connector="_R-snhDBuEemPPrxdRSNeIA"/>
+          <ownedConnectorPositions id="_-BMW0-N5Eeq-YtqC8UXB3Q" x="112" y="35" connector="_UdqkUDBuEemPPrxdRSNeIA"/>
+          <nameLabelPosition id="_-BMW1ON5Eeq-YtqC8UXB3Q" y="5"/>
+        </ownedLayout>
+      </ownedDefaultStyle>
+      <ownedStateVariables id="_RXwjUDBuEemPPrxdRSNeIA" name="state1">
+        <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+        <initialValue id="_RXwjUjBuEemPPrxdRSNeIA" expression="nominal"/>
+      </ownedStateVariables>
+      <ownedEvents id="_RXxKYDBuEemPPrxdRSNeIA" name="failure">
+        <ownedProbaLaw xsi:type="altarica:Exponential" id="_RXxKYjBuEemPPrxdRSNeIA" lambda="0.00001" lambdaCst="_HA7Q8Jr5EeyWAe4bpmSf8w"/>
+      </ownedEvents>
+      <ownedTransitions id="_RXxKZDBuEemPPrxdRSNeIA" event="_RXxKYDBuEemPPrxdRSNeIA" effectsExpression="state1 := failed">
+        <effects id="_RXxKaDBuEemPPrxdRSNeIA" assignedVariable="_RXwjUDBuEemPPrxdRSNeIA">
+          <expression id="_RXxKajBuEemPPrxdRSNeIA" expression="failed"/>
+        </effects>
+        <guard id="_RXxKZjBuEemPPrxdRSNeIA" expression="state1 = nominal"/>
+      </ownedTransitions>
+    </ownedBricks>
+    <ownedDomains xsi:type="altarica:EnumDomain" id="_7k8MsDBsEemPPrxdRSNeIA" name="erroneousDomain">
+      <ownedLiteral id="_7k-B4TBsEemPPrxdRSNeIA" name="nominal">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_zc6tgub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+      <ownedLiteral id="_7k_3ETBsEemPPrxdRSNeIA" name="loss" type="Failed">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_wvgFAub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+      <ownedLiteral id="_A0Nt8TBtEemPPrxdRSNeIA" name="erroneous" type="Degraded">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_46Ybwub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+    </ownedDomains>
+    <ownedDomains xsi:type="altarica:EnumDomain" id="_AN8_MDBtEemPPrxdRSNeIA" name="relayStates">
+      <ownedLiteral id="_AN8_MjBtEemPPrxdRSNeIA" name="nominal">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_zc6tgub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+      <ownedLiteral id="_AN8_NDBtEemPPrxdRSNeIA" name="stuckedOpen" type="Failed">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_wvgFAub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+      <ownedLiteral id="_HACXATBtEemPPrxdRSNeIA" name="stuckedClosed" type="Failed">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_wvgFAub8EeaavZcS0G3Ynw"/>
+      </ownedLiteral>
+    </ownedDomains>
+  </ownedLibrary>
+  <sharedLibraries href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_k3S9YOb7EeaavZcS0G3Ynw"/>
+  <sharedLibraries href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.userdata.simfia#_USOiMBVWEeeqzp2dGFP3yA"/>
+  <sharedLibraries href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.rcp/model/safety.analysis.userdata.simfia#_yFe7ABlFEeeiq47Vi3ICTg"/>
+  <ownedSequencesComputations id="_XuUx4DBwEemPPrxdRSNeIA" name="Loss of fire detection" phase="_2iK9xDBpEemPPrxdRSNeIA" maxOrder="4" typeGeneration="Exploration" typeFiltering="MinimalCuts" typeProbability="ARP4761" fearedSituation="_OKww8DBwEemPPrxdRSNeIA" sequencesObsolete="false" probaObsolete="false">
+    <ownedChecks xsi:type="cutseq:CheckNoSingleFailure" id="_tOJekDByEemXduCXh7XlMw"/>
+    <ownedChecks xsi:type="safetyanalysis:CheckSafetyObjective" id="_typSwDByEemXduCXh7XlMw"/>
+    <ownedChecks xsi:type="cutseq:CheckOrder" id="_JW__oDBzEemXduCXh7XlMw" userData="_cWSYUDBsEemPPrxdRSNeIA"/>
+    <ownedResults id="_hcAMIJr6EeyWAe4bpmSf8w" name="Loss of fire detection" launchDate="2022-03-03T15:02:11.484+0100" state="COMPLETED" externalId="9" participatingEvents="_s7g6oTBrEemPPrxdRSNeIA _RX6UUzBuEemPPrxdRSNeIA _tBp-4TBrEemPPrxdRSNeIA __fz05DBuEemPPrxdRSNeIA _2AlzUzBsEemPPrxdRSNeIA _8VFlUzBuEemPPrxdRSNeIA _6dZ1gzBvEemPPrxdRSNeIA" computedProbability="0.00001000195968079612800000000000000000000000000000" cutsSequencesState="COMPLETED" probabilityState="COMPLETED" checksState="COMPLETED">
+      <defaultRule id="_hcAMIpr6EeyWAe4bpmSf8w"/>
+    </ownedResults>
+  </ownedSequencesComputations>
+  <ownedSequencesComputations id="_ZyozADBwEemPPrxdRSNeIA" name="Spurious (erroneous) fire detection" phase="_2iK9xDBpEemPPrxdRSNeIA" maxOrder="4" typeGeneration="Exploration" typeFiltering="MinimalCuts" typeProbability="ARP4761" fearedSituation="_R745MDBwEemPPrxdRSNeIA" sequencesObsolete="false" probaObsolete="false" rulesObsolete="false">
+    <ownedChecks xsi:type="safetyanalysis:CheckSafetyObjective" id="_viwEYJr6EeyWAe4bpmSf8w"/>
+    <ownedResults id="_wXi-YJr6EeyWAe4bpmSf8w" name="Spurious (erroneous) fire detection" launchDate="2022-03-03T15:03:51.648+0100" state="COMPLETED" externalId="11" participatingEvents="_tBp-4jBrEemPPrxdRSNeIA _s7g6ojBrEemPPrxdRSNeIA __fz05TBuEemPPrxdRSNeIA _8VFlVDBuEemPPrxdRSNeIA" computedProbability="0.00000819982390000000000000000000000000000000000000" cutsSequencesState="COMPLETED" probabilityState="COMPLETED" checksState="COMPLETED">
+      <defaultRule id="_wXi-Ypr6EeyWAe4bpmSf8w"/>
+    </ownedResults>
+  </ownedSequencesComputations>
+  <ownedExtensions xsi:type="safetyanalysis:SafetyAnalysis" id="_2oHNsDBpEemPPrxdRSNeIA" name="Safety Analysis">
+    <ownedFunctions id="_6b3MIDBpEemPPrxdRSNeIA" name="S-01Detect fire" realizedBy="_s7g6oDBrEemPPrxdRSNeIA _8VFlUDBuEemPPrxdRSNeIA">
+      <ownedFailures id="_8j-vMDBpEemPPrxdRSNeIA" name="S-01Detect fire_Loss">
+        <ownedScenarios id="_-wg4MDBpEemPPrxdRSNeIA" name="Loss of fire detection " effects="Loss of capability to detect an engine fire. No effect on the aircraft as single failure. In case of fire event, loss of capability to alert crew for immediate action leading to a slight reduction of safety margins" detection="Caution" action="Crew monitoring of engine parameters" failureConditions="_10HIcDBqEemPPrxdRSNeIA" safetyParameters="_KrHzkDBrEemPPrxdRSNeIA">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_XD4mgAS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+        <ownedScenarios id="_GyejgDBqEemPPrxdRSNeIA" name="Loss of fire detection in case of fire event" effects="A fire event occurs on the engine and the system fails to detect it. Crew detection is delayed but crew is able to react in due time for controlling fire. Large reduction of safety margins" detection="Crew detects engine fire thanks to the monitoring of engine parameters. " action="After detection, crew immediately shuts off the engine and extinguishes fire" failureConditions="_10HIcDBqEemPPrxdRSNeIA">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_WRrtgAS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+      </ownedFailures>
+      <ownedFailures id="_NMfZkDBqEemPPrxdRSNeIA" name="S-01Detect fire_Spurious">
+        <ownedScenarios id="_Q9T_0DBqEemPPrxdRSNeIA" name="Spurious fire detection" effects="This failure leads the system to trigger the engine fire alert whereas no fire has occurred. It is assumed that crew reacts immediately and applies the procedure. Repercussions are equivalent to an IFSD in flight." detection="Engine fire warning" action="Crew immediately shuts off the engine and extinguishes fire" failureConditions="_7ArT8DBqEemPPrxdRSNeIA" safetyParameters="_KrHzkDBrEemPPrxdRSNeIA">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_XD4mgAS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+      </ownedFailures>
+    </ownedFunctions>
+    <ownedFunctions id="_WeNckDBqEemPPrxdRSNeIA" name="S-02 Alert crew" realizedBy="_uyecQDBrEemPPrxdRSNeIA _6dZ1gDBvEemPPrxdRSNeIA _tBp-4DBrEemPPrxdRSNeIA __fz04DBuEemPPrxdRSNeIA">
+      <ownedFailures id="_YLs5IDBqEemPPrxdRSNeIA" name="S-02 Alert crew_Loss">
+        <ownedScenarios id="_hvcgQDBqEemPPrxdRSNeIA" name="Loss of alert" effects="Loss of capability to alert crew in case of engine fire. No effect on the aircraft as single failure. In case of fire event, loss of capability to alert crew for immediate action leading to a slight reduction of safety margins" detection="none" action="none">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_w-bc8AS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+        <ownedScenarios id="_moSegDBqEemPPrxdRSNeIA" name="Loss of alert in case of fire event" effects="A fire event occurs on the engine and the system fails to alert crew. Crew detection is delayed and engine fire cannot be controlled." detection="Crew detects engine fire thanks to the monitoring of engine parameters. &#xD;&#xA;" action="If detected, crew shuts off the engine and extinguishes fire" failureConditions="_10HIcDBqEemPPrxdRSNeIA">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_WRrtgAS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+      </ownedFailures>
+      <ownedFailures id="_Z1PCwDBqEemPPrxdRSNeIA" name="S-02 Alert crew_Spurious">
+        <ownedScenarios id="_rVB6cDBqEemPPrxdRSNeIA" name="Spurious alert" effects="This failure leads the system to trigger the engine fire alert whereas no fire has occurred. It is assumed that crew reacts immediately and applies the procedure. Repercussions are equivalent to an IFSD in flight." detection="Engine fire warning" action="Crew immediately shuts off the engine and extinguishes fire&#xD;&#xA;" failureConditions="_7ArT8DBqEemPPrxdRSNeIA">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_XD4mgAS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+      </ownedFailures>
+    </ownedFunctions>
+    <ownedFunctions id="_bzWVQDBqEemPPrxdRSNeIA" name="E-01Provide electrical power supply" realizedBy="_suDtcDBrEemPPrxdRSNeIA">
+      <ownedFailures id="_fCcugDBqEemPPrxdRSNeIA" name="E-01Provide electrical power supply_Loss">
+        <ownedScenarios id="_vtcsMDBqEemPPrxdRSNeIA" name="Loss of electrical power supply" effects="The fire detection system is no more powered. Following functions are lost&#xD;&#xA;Detect fire S-01.00.00.A/01&#xD;&#xA;Alert crew S-02.00.00.A/01" detection="none" action="none">
+          <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_w-bc8AS4EeeA6Y6sdjjsqw"/>
+        </ownedScenarios>
+      </ownedFailures>
+    </ownedFunctions>
+    <ownedFailureConditions id="_10HIcDBqEemPPrxdRSNeIA" name="Uncontrolled engine fire" computationConfig="_XuUx4DBwEemPPrxdRSNeIA" safetyParameters="_KrHzkDBrEemPPrxdRSNeIA _Q2z5wDBrEemPPrxdRSNeIA">
+      <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_WRrtgAS4EeeA6Y6sdjjsqw"/>
+    </ownedFailureConditions>
+    <ownedFailureConditions id="_7ArT8DBqEemPPrxdRSNeIA" name="Spurious activation of fire detection" computationConfig="_ZyozADBwEemPPrxdRSNeIA">
+      <classification href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_XD4mgAS4EeeA6Y6sdjjsqw"/>
+    </ownedFailureConditions>
+    <ownedSafetyParameters id="_KrHzkDBrEemPPrxdRSNeIA" name="Safety Parameter1" linkedObjects="_Q9T_0DBqEemPPrxdRSNeIA _-wg4MDBpEemPPrxdRSNeIA" openingDate="2019-02-14T16:14:04.745+0100"/>
+    <ownedSafetyParameters id="_Q2z5wDBrEemPPrxdRSNeIA" name="Safety Parameter2" openingDate="2019-02-14T16:14:46.236+0100"/>
+    <ownedSafetyParameters id="_RD3eUDBrEemPPrxdRSNeIA" name="Safety Parameter3" openingDate="2019-02-14T16:14:47.605+0100"/>
+    <profile href="platform:/plugin/net.eads.apsys.simfia.safetyanalysis.aero.profile/model/aero.profile.safetyanalysis#_T6lTQQS4EeeA6Y6sdjjsqw"/>
+  </ownedExtensions>
+</simfia:Project>
