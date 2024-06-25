@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:altarica="http://www.apsys.eads.net/simfia/altarica/1.0" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:filter="http://www.eclipse.org/sirius/diagram/description/filter/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/filter/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/filter http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_SSVxoJZVEeyEaJojdOHDsg" selectedViews="_SSrI0JZVEeyEaJojdOHDsg _STGmoJZVEeyEaJojdOHDsg _STXsYJZVEeyEaJojdOHDsg" version="15.0.0.202209061200">
+    <semanticResources>ARP4761A_Second_Example.simfia</semanticResources>
+    <semanticResources>platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_SSrI0JZVEeyEaJojdOHDsg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/net.eads.apsys.simfia.design/description/altarica-system-modelcheckingproperties.odesign#//@ownedViewpoints[name='altarica-system-modelcheckingproperties']"/>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" uid="_STGmoJZVEeyEaJojdOHDsg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_STwt8ZZVEeyEaJojdOHDsg" name="Control_system" repPath="#_STwG4JZVEeyEaJojdOHDsg" changeId="1f44626a-5d88-48f4-b1da-b2bcc19dae09">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']"/>
+        <target xmi:type="altarica:CompositeBrickClass" href="ARP4761A_Second_Example.simfia#_SShX0pZVEeyEaJojdOHDsg"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" uid="_STXsYJZVEeyEaJojdOHDsg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/net.eads.apsys.simfia.design/description/project-properties.odesign#//@ownedViewpoints[name='001_simfia-project-properties']"/>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_STwG4JZVEeyEaJojdOHDsg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_STxVAJZVEeyEaJojdOHDsg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_STxVAZZVEeyEaJojdOHDsg" type="Sirius" element="_STwG4JZVEeyEaJojdOHDsg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_Uvo-UNhIEe2LW-F3hWRuPQ" type="2001" element="_UvWDYdhIEe2LW-F3hWRuPQ">
+          <children xmi:type="notation:Node" xmi:id="_Uvo-U9hIEe2LW-F3hWRuPQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Uvo-VNhIEe2LW-F3hWRuPQ" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UvplYNhIEe2LW-F3hWRuPQ" type="3004" element="_UvWqcNhIEe2LW-F3hWRuPQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UvplYdhIEe2LW-F3hWRuPQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UvplYthIEe2LW-F3hWRuPQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Uvo-UdhIEe2LW-F3hWRuPQ" fontName="Segoe UI" fontHeight="12" fillColor="8905185" lineColor="8905185"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uvo-UthIEe2LW-F3hWRuPQ" x="19" y="378" width="650" height="124"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Dy8MoNhIEe2LW-F3hWRuPQ" type="2001" element="_Dygu0NhIEe2LW-F3hWRuPQ">
+          <children xmi:type="notation:Node" xmi:id="_DzCTQNhIEe2LW-F3hWRuPQ" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_DzCTQdhIEe2LW-F3hWRuPQ" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_DzFWkNhIEe2LW-F3hWRuPQ" type="3004" element="_DyhV4NhIEe2LW-F3hWRuPQ">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_DzFWkdhIEe2LW-F3hWRuPQ" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DzFWkthIEe2LW-F3hWRuPQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Dy8ModhIEe2LW-F3hWRuPQ" fontName="Segoe UI" fontHeight="12" fillColor="13420443" lineColor="13420443"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Dy8MothIEe2LW-F3hWRuPQ" x="19" y="8" width="652" height="368"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_sRMgUJZVEeyEaJojdOHDsg" type="2001" element="_sQ-d4JZVEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_sROVgJZVEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_sROVgZZVEeyEaJojdOHDsg" x="20" y="-14"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_-ILI8JZVEeyEaJojdOHDsg" type="3001" element="_-IGQcJZVEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_-ILwAJZVEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_-ILwAZZVEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_-IUS4JZVEeyEaJojdOHDsg" type="3002" element="_-IG3gJZVEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_-IUS4ZZVEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-IUS4pZVEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_-ILI8ZZVEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-ILI8pZVEeyEaJojdOHDsg" x="88" y="37" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_P9ZeEJZWEeyEaJojdOHDsg" type="3014" element="_P9VzsZZWEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_P9ZeEZZWEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_P9ZeEpZWEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_sRMgUZZVEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sRMgUpZVEeyEaJojdOHDsg" x="48" y="34" width="80" height="84"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XUF-0pZWEeyEaJojdOHDsg" type="2001" element="_XTQRUpZWEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_XUGl4JZWEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_XUGl4ZZWEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fWDDEJZWEeyEaJojdOHDsg" type="3001" element="_fV-xpJZWEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_fWDqIJZWEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_fWDqIZZWEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fWDqIpZWEeyEaJojdOHDsg" type="3002" element="_fV_YsJZWEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_fWDqI5ZWEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fWDqJJZWEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_fWDDEZZWEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fWDDEpZWEeyEaJojdOHDsg" x="-10" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fd1tIJZWEeyEaJojdOHDsg" type="3001" element="_fdxbtJZWEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_fd2UMJZWEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_fd2UMZZWEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fd2UMpZWEeyEaJojdOHDsg" type="3002" element="_fdxbtZZWEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_fd2UM5ZWEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fd2UNJZWEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_fd1tIZZWEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fd1tIpZWEeyEaJojdOHDsg" x="120" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_doXHUJZYEeyEaJojdOHDsg" type="3014" element="_doUEAZZYEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_doXHUZZYEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_doXHUpZYEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XUF-05ZWEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XUF-1JZWEeyEaJojdOHDsg" x="209" y="44" width="64" height="64"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_jRCAApZYEeyEaJojdOHDsg" type="2001" element="_jQvFFJZYEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_jRCnEJZYEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_jRCnEZZYEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_j0bA8JZYEeyEaJojdOHDsg" type="3001" element="_j0CmcJZYEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_j0bA85ZYEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_j0bA9JZYEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_j0boAJZYEeyEaJojdOHDsg" type="3002" element="_j0CmcZZYEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_j0boAZZYEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j0boApZYEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_j0bA8ZZYEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j0bA8pZYEeyEaJojdOHDsg" x="-10" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_r9FKIJZYEeyEaJojdOHDsg" type="3001" element="_r88nQpZYEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_r9FxMJZYEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_r9FxMZZYEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_r9FxMpZYEeyEaJojdOHDsg" type="3002" element="_r88nQ5ZYEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_r9FxM5ZYEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r9FxNJZYEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_r9FKIZZYEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r9FKIpZYEeyEaJojdOHDsg" x="88" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_EM4gkJZaEeyEaJojdOHDsg" type="3014" element="_EM2EVZZaEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_EM4gkZZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EM4gkpZaEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_jRCAA5ZYEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jRCABJZYEeyEaJojdOHDsg" x="364" y="27" width="72" height="98"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_KCgQJJZaEeyEaJojdOHDsg" type="2001" element="_KCVRBpZaEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_KCg3MJZaEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_KCg3MZZaEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LpElUJZaEeyEaJojdOHDsg" type="3003" element="_LpBiApZaEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_LpElUZZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LpElUpZaEeyEaJojdOHDsg"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MDnMRJZaEeyEaJojdOHDsg" type="3001" element="_MDiTwJZaEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_MDnzUJZaEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_MDnzUZZaEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MDoaYJZaEeyEaJojdOHDsg" type="3002" element="_MDiTwZZaEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_MDoaYZZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MDoaYpZaEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MDnMRZZaEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MDnMRpZaEeyEaJojdOHDsg" x="-10" y="15" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MIzOQpZaEeyEaJojdOHDsg" type="3001" element="_MIu805ZaEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_MIz1UJZaEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_MIz1UZZaEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MIz1UpZaEeyEaJojdOHDsg" type="3002" element="_MIu81JZaEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_MIz1U5ZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MIz1VJZaEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MIzOQ5ZaEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MIzORJZaEeyEaJojdOHDsg" x="-10" y="35" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MOUndpZaEeyEaJojdOHDsg" type="3001" element="_MOQ9FZZaEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_MOUneZZaEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_MOUnepZaEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MOUne5ZaEeyEaJojdOHDsg" type="3002" element="_MOQ9FpZaEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_MOUnfJZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MOUnfZZaEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MOUnd5ZaEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MOUneJZaEeyEaJojdOHDsg" x="-10" y="55" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_NVMI4JZaEeyEaJojdOHDsg" type="3001" element="_NVGCRpZaEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_NVMv8JZaEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_NVMv8ZZaEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_NVMv8pZaEeyEaJojdOHDsg" type="3002" element="_NVGCR5ZaEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_NVMv85ZaEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NVMv9JZaEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_NVMI4ZZaEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NVMI4pZaEeyEaJojdOHDsg" x="120" y="35" width="10" height="10"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_KCgQJZZaEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KCgQJpZaEeyEaJojdOHDsg" x="530" y="162" width="120" height="80"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_ZeavEJZbEeyEaJojdOHDsg" type="2001" element="_ZeMFlZZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_ZeavE5ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ZeavFJZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cUY2oJZbEeyEaJojdOHDsg" type="3001" element="_cUT-IpZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_cUY2o5ZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_cUY2pJZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_cUY2pZZbEeyEaJojdOHDsg" type="3002" element="_cUT-I5ZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_cUY2ppZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cUY2p5ZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_cUY2oZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cUY2opZbEeyEaJojdOHDsg" x="-10" y="21" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cZ0wQJZbEeyEaJojdOHDsg" type="3001" element="_cZxF5pZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_cZ3MgJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_cZ3MgZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_cZ3zkJZbEeyEaJojdOHDsg" type="3002" element="_cZxF55ZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_cZ3zkZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cZ3zkpZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_cZ0wQZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cZ0wQpZbEeyEaJojdOHDsg" x="-10" y="47" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_dY19QJZbEeyEaJojdOHDsg" type="3001" element="_dYv2qpZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_dY2kUJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_dY2kUZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_dY3LYJZbEeyEaJojdOHDsg" type="3002" element="_dYv2q5ZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_dY3LYZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dY3LYpZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_dY19QZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dY19QpZbEeyEaJojdOHDsg" x="120" y="35" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_6wz80JZbEeyEaJojdOHDsg" type="3003" element="_6wvEU5ZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_6wz80ZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6wz80pZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_ZeavEZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZeavEpZbEeyEaJojdOHDsg" x="707" y="272" width="120" height="80"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_z0NXEJZbEeyEaJojdOHDsg" type="2001" element="_z0DmGpZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_z0N-IJZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_z0OlOJZbEeyEaJojdOHDsg" x="19" y="-14"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_z0N-IpZbEeyEaJojdOHDsg" type="3001" element="_z0ENIpZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_z0N-JZZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_z0N-JpZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_z0OlM5ZbEeyEaJojdOHDsg" type="3002" element="_z0ENI5ZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_z0OlNJZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z0OlNZZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_z0N-I5ZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z0OlN5ZbEeyEaJojdOHDsg" x="88" y="37" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_z0OlMJZbEeyEaJojdOHDsg" type="3014" element="_z0DmG5ZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_z0OlMZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z0OlMpZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_z0NXEZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z0OlNpZbEeyEaJojdOHDsg" x="48" y="219" width="80" height="84"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_0xFPAJZbEeyEaJojdOHDsg" type="2001" element="_0w7eCpZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_0xFPA5ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_0xF2GpZbEeyEaJojdOHDsg" x="20" y="-14"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_0xFPBZZbEeyEaJojdOHDsg" type="3001" element="_0w7eDpZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_0xF2EJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_0xF2EZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_0xF2FZZbEeyEaJojdOHDsg" type="3002" element="_0w7eD5ZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_0xF2FpZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0xF2F5ZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_0xFPBpZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0xF2GZZbEeyEaJojdOHDsg" x="88" y="37" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_0xF2EpZbEeyEaJojdOHDsg" type="3014" element="_0w7eC5ZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_0xF2E5ZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0xF2FJZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_0xFPAZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0xF2GJZbEeyEaJojdOHDsg" x="48" y="401" width="80" height="84"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_2xx7dJZbEeyEaJojdOHDsg" type="2001" element="_2xnjbpZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_2xzJkJZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_2x0-wpZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2xzJkpZbEeyEaJojdOHDsg" type="3001" element="_2xoKcZZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_2xzJlZZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_2xzJlpZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2xzwoJZbEeyEaJojdOHDsg" type="3002" element="_2xoKcpZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2xzwoZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2xzwopZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_2xzJk5ZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2x0-wJZbEeyEaJojdOHDsg" x="-10" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2xzJl5ZbEeyEaJojdOHDsg" type="3001" element="_2xoKdJZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_2xzJmpZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_2xzJm5ZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2x0XsJZbEeyEaJojdOHDsg" type="3002" element="_2xoKdZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2x0XsZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2x0XspZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_2xzJmJZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2x0-wZZbEeyEaJojdOHDsg" x="120" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2xzJnJZbEeyEaJojdOHDsg" type="3014" element="_2xnjb5ZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_2xzJnZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2xzJnpZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_2xx7dZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2x0Xs5ZbEeyEaJojdOHDsg" x="209" y="170" width="64" height="64"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_3yGI8JZbEeyEaJojdOHDsg" type="2001" element="_3x7w7ZZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_3yGI85ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_3yH-IpZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_3yGwAJZbEeyEaJojdOHDsg" type="3001" element="_3x8X8JZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_3yGwA5ZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_3yGwBJZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_3yHXE5ZbEeyEaJojdOHDsg" type="3002" element="_3x8X8ZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_3yHXFJZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yHXFZZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_3yGwAZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yH-IJZbEeyEaJojdOHDsg" x="-10" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_3yGwBZZbEeyEaJojdOHDsg" type="3001" element="_3x8X85ZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_3yGwCJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_3yGwCZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_3yHXFpZbEeyEaJojdOHDsg" type="3002" element="_3x8X9JZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_3yHXF5ZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yHXGJZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_3yGwBpZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yH-IZZbEeyEaJojdOHDsg" x="120" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_3yHXEJZbEeyEaJojdOHDsg" type="3014" element="_3x7w7pZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_3yHXEZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yHXEpZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_3yGI8ZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3yHXGZZbEeyEaJojdOHDsg" x="209" y="291" width="64" height="64"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_48JhQJZbEeyEaJojdOHDsg" type="2001" element="_479UDJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_48JhQ5ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_48LWc5ZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_48JhRZZbEeyEaJojdOHDsg" type="3001" element="_479UEJZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_48KIUJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_48KIUZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_48KIWpZbEeyEaJojdOHDsg" type="3002" element="_479UEZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_48KIW5ZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48KIXJZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_48JhRpZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48LWcZZbEeyEaJojdOHDsg" x="-10" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_48KIUpZbEeyEaJojdOHDsg" type="3001" element="_4797EJZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_48KIVZZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_48KIVpZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_48KvYJZbEeyEaJojdOHDsg" type="3002" element="_4797EZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_48KvYZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48KvYpZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_48KIU5ZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48LWcpZbEeyEaJojdOHDsg" x="120" y="27" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_48KIV5ZbEeyEaJojdOHDsg" type="3014" element="_479UDZZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_48KIWJZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48KIWZZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_48JhQZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_48LWcJZbEeyEaJojdOHDsg" x="209" y="411" width="64" height="64"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="__aJfeJZbEeyEaJojdOHDsg" type="2001" element="__Z9SOJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="__aJfe5ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="__aLUoJZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__aJffZZbEeyEaJojdOHDsg" type="3001" element="__Z9SPJZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="__aKtkJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="__aKtkZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="__aKtmpZbEeyEaJojdOHDsg" type="3002" element="__Z9SPZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="__aKtm5ZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtnJZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__aJffpZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtoZZbEeyEaJojdOHDsg" x="-10" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__aKtkpZbEeyEaJojdOHDsg" type="3001" element="__Z9SP5ZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="__aKtlZZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="__aKtlpZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="__aKtnZZbEeyEaJojdOHDsg" type="3002" element="__Z95QJZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="__aKtnpZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtn5ZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__aKtk5ZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtopZbEeyEaJojdOHDsg" x="88" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__aKtl5ZbEeyEaJojdOHDsg" type="3014" element="__Z9SOZZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__aKtmJZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtmZZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="__aJfeZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aKtoJZbEeyEaJojdOHDsg" x="364" y="153" width="72" height="98"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="__-zrsJZbEeyEaJojdOHDsg" type="2001" element="__-m3cJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="__-zrs5ZbEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="__-0505ZbEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__-zrtZZbEeyEaJojdOHDsg" type="3001" element="__-m3dJZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="__-zruJZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="__-zruZZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="__-0SyJZbEeyEaJojdOHDsg" type="3002" element="__-m3dZZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="__-0SyZZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-0SypZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__-zrtpZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-050ZZbEeyEaJojdOHDsg" x="-10" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__-0SwJZbEeyEaJojdOHDsg" type="3001" element="__-m3d5ZbEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="__-0Sw5ZbEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="__-0SxJZbEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="__-0Sy5ZbEeyEaJojdOHDsg" type="3002" element="__-m3eJZbEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="__-0SzJZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-0SzZZbEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__-0SwZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-050pZbEeyEaJojdOHDsg" x="88" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__-0SxZZbEeyEaJojdOHDsg" type="3014" element="__-m3cZZbEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="__-0SxpZbEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-0Sx5ZbEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="__-zrsZZbEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__-050JZbEeyEaJojdOHDsg" x="364" y="274" width="72" height="98"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_AqSRoJZcEeyEaJojdOHDsg" type="2001" element="_AqEPQpZcEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_AqS4sJZcEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_AqUG05ZcEeyEaJojdOHDsg" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_AqS4spZcEeyEaJojdOHDsg" type="3001" element="_AqE2Q5ZcEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_AqS4tZZcEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AqS4tpZcEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AqTfyJZcEeyEaJojdOHDsg" type="3002" element="_AqE2RJZcEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_AqTfyZZcEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqTfypZcEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_AqS4s5ZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqUG0ZZcEeyEaJojdOHDsg" x="-10" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_AqTfwJZcEeyEaJojdOHDsg" type="3001" element="_AqFdUJZcEeyEaJojdOHDsg">
+            <children xmi:type="notation:Node" xmi:id="_AqTfw5ZcEeyEaJojdOHDsg" type="5001">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_AqTfxJZcEeyEaJojdOHDsg" x="-4" y="-3"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_AqTfy5ZcEeyEaJojdOHDsg" type="3002" element="_AqFdUZZcEeyEaJojdOHDsg">
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_AqTfzJZcEeyEaJojdOHDsg" fontName="Segoe UI"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqTfzZZcEeyEaJojdOHDsg"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_AqTfwZZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqUG0pZcEeyEaJojdOHDsg" x="88" y="44" width="10" height="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_AqTfxZZcEeyEaJojdOHDsg" type="3014" element="_AqE2QJZcEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_AqTfxpZcEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqTfx5ZcEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_AqSRoZZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqUG0JZcEeyEaJojdOHDsg" x="364" y="394" width="72" height="98"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_h3OXoJZcEeyEaJojdOHDsg" type="2001" element="_h3AVNJZcEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_h3OXo5ZcEeyEaJojdOHDsg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_h3OXpJZcEeyEaJojdOHDsg" x="-14"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_h3OXpZZcEeyEaJojdOHDsg" type="3002" element="_h3A8QJZcEeyEaJojdOHDsg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_h3OXppZcEeyEaJojdOHDsg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h3OXp5ZcEeyEaJojdOHDsg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_h3OXoZZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h3OXopZcEeyEaJojdOHDsg" x="873" y="302" width="20" height="20"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_iifa0OBPEe6AX7KrJlU-sA" type="Note" fontName="Segoe UI" description="The whole content is provided under the following terms&#xD;&#xA;&#xD;&#xA;Copyright (c) 2024 AIRBUS Protect SAS&#xD;&#xA;&#xD;&#xA;All rights reserved. This program and the accompanying materials are made available under the terms of the &#xD;&#xA;Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) which accompanies this distribution,&#xD;&#xA;and is available at https://creativecommons.org/licenses/by-sa/4.0/" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_iifa0eBPEe6AX7KrJlU-sA" source="specificStyles">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_iifa0uBPEe6AX7KrJlU-sA" key="verticalAlignment" value="8"/>
+          </eAnnotations>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_iigB4OBPEe6AX7KrJlU-sA" type="DiagramName">
+            <element xsi:nil="true"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_iigB4eBPEe6AX7KrJlU-sA" type="Description">
+            <element xsi:nil="true"/>
+          </children>
+          <styles xmi:type="notation:TextStyle" xmi:id="_iifa0-BPEe6AX7KrJlU-sA" textAlignment="Center"/>
+          <styles xmi:type="notation:LineTypeStyle" xmi:id="_iifa1OBPEe6AX7KrJlU-sA"/>
+          <element xsi:nil="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iifa1eBPEe6AX7KrJlU-sA" x="697" y="19" width="342"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_STxVApZVEeyEaJojdOHDsg"/>
+        <edges xmi:type="notation:Edge" xmi:id="_j0n1QJZYEeyEaJojdOHDsg" type="4001" element="_j0JUIJZYEeyEaJojdOHDsg" source="_fd1tIJZWEeyEaJojdOHDsg" target="_j0bA8JZYEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_j0pDYJZYEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j0pDYZZYEeyEaJojdOHDsg" y="-12"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_j0pqcJZYEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j0pqcZZYEeyEaJojdOHDsg" x="-4" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_j0pqcpZYEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j0pqc5ZYEeyEaJojdOHDsg" x="-3" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_j0n1QZZYEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_j0n1QpZYEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_j0n1Q5ZYEeyEaJojdOHDsg" points="[5, 0, -76, 0]$[76, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j0sGsJZYEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j0sGsZZYEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_A6sMgJZZEeyEaJojdOHDsg" type="4001" element="_A6ibhJZZEeyEaJojdOHDsg" source="_-ILI8JZVEeyEaJojdOHDsg" target="_fWDDEJZWEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_A6sMhJZZEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A6sMhZZZEeyEaJojdOHDsg" x="4" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_A6sMhpZZEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A6sMh5ZZEeyEaJojdOHDsg" x="-4" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_A6sMiJZZEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A6sMiZZZEeyEaJojdOHDsg" x="-1" y="6"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_A6sMgZZZEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_A6sMgpZZEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_A6sMg5ZZEeyEaJojdOHDsg" points="[5, 0, -66, 0]$[66, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_A6uowJZZEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_A6uowZZZEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Z-CN0JZcEeyEaJojdOHDsg" type="4001" element="_Z91ZipZcEeyEaJojdOHDsg" source="_0xFPBZZbEeyEaJojdOHDsg" target="_48JhRZZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_Z-CN1JZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z-CN1ZZcEeyEaJojdOHDsg" x="-6" y="-9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Z-CN1pZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z-CN15ZcEeyEaJojdOHDsg" y="6"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Z-C04JZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z-C04ZZcEeyEaJojdOHDsg" x="-1" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Z-CN0ZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Z-CN0pZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Z-CN05ZcEeyEaJojdOHDsg" points="[5, 0, -66, 0]$[66, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Z-C04pZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Z-C045ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_abC58JZcEeyEaJojdOHDsg" type="4001" element="_aa3TzJZcEeyEaJojdOHDsg" source="_z0N-IpZbEeyEaJojdOHDsg" target="_3yGwAJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_abC59JZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abC59ZZcEeyEaJojdOHDsg" x="5" y="-12"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_abDhAJZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abDhAZZcEeyEaJojdOHDsg" x="-2" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_abDhApZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abDhA5ZcEeyEaJojdOHDsg" x="3" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_abC58ZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_abC58pZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_abC585ZcEeyEaJojdOHDsg" points="[5, 0, -66, -62]$[35, 0, -36, -62]$[35, 62, -36, 0]$[66, 62, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_abDhBJZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_abDhBZZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_a4FbQJZcEeyEaJojdOHDsg" type="4001" element="_a38RYJZcEeyEaJojdOHDsg" source="_48KIUpZbEeyEaJojdOHDsg" target="_AqS4spZcEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_a4GCUJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a4GCUZZcEeyEaJojdOHDsg" x="4" y="-11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_a4GCUpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a4GCU5ZcEeyEaJojdOHDsg" x="8" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_a4GCVJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a4GCVZZcEeyEaJojdOHDsg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_a4FbQZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_a4FbQpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_a4FbQ5ZcEeyEaJojdOHDsg" points="[5, 0, -76, 0]$[76, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_a4GCVpZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_a4GCV5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_bYA4gJZcEeyEaJojdOHDsg" type="4001" element="_bX1SUJZcEeyEaJojdOHDsg" source="_z0N-IpZbEeyEaJojdOHDsg" target="_2xzJkpZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_bYA4hJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bYA4hZZcEeyEaJojdOHDsg" x="-18" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bYA4hpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bYA4h5ZcEeyEaJojdOHDsg" x="-1" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bYA4iJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bYA4iZZcEeyEaJojdOHDsg" x="-4" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_bYA4gZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_bYA4gpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bYA4g5ZcEeyEaJojdOHDsg" points="[5, 0, -66, 59]$[35, 0, -36, 59]$[35, -59, -36, 0]$[66, -59, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bYA4ipZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bYA4i5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_bvoHQJZcEeyEaJojdOHDsg" type="4001" element="_bvchIJZcEeyEaJojdOHDsg" source="_2xzJl5ZbEeyEaJojdOHDsg" target="__aJffZZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_bvoHRJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bvoHRZZcEeyEaJojdOHDsg" x="6" y="-11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bvoHRpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bvoHR5ZcEeyEaJojdOHDsg" x="12" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_bvoHSJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bvoHSZZcEeyEaJojdOHDsg" x="1" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_bvoHQZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_bvoHQpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bvoHQ5ZcEeyEaJojdOHDsg" points="[5, 0, -76, 0]$[76, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bvouUJZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bvouUZZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_cLAbsJZcEeyEaJojdOHDsg" type="4001" element="_cKxyQJZcEeyEaJojdOHDsg" source="_3yGwBZZbEeyEaJojdOHDsg" target="__-zrtZZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_cLBCwJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cLBCwZZcEeyEaJojdOHDsg" x="6" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cLBCwpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cLBCw5ZcEeyEaJojdOHDsg" x="9" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_cLBCxJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cLBCxZZcEeyEaJojdOHDsg" x="2" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_cLAbsZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_cLAbspZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cLAbs5ZcEeyEaJojdOHDsg" points="[5, 0, -76, 0]$[76, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cLBCxpZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cLBCx5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_c79XgJZcEeyEaJojdOHDsg" type="4001" element="_c7xxcJZcEeyEaJojdOHDsg" source="_AqTfwJZcEeyEaJojdOHDsg" target="_cZ0wQJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_c79-kJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c79-kZZcEeyEaJojdOHDsg" x="35" y="-53"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_c79-kpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c79-k5ZcEeyEaJojdOHDsg" x="4" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_c79-lJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c79-lZZcEeyEaJojdOHDsg" x="31" y="12"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_c79XgZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_c79XgpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_c79Xg5ZcEeyEaJojdOHDsg" points="[5, 0, -256, 119]$[235, 0, -26, 119]$[235, -119, -26, 0]$[256, -119, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_c79-lpZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_c79-l5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ddsyoJZcEeyEaJojdOHDsg" type="4001" element="_ddglgJZcEeyEaJojdOHDsg" source="__-0SwJZbEeyEaJojdOHDsg" target="_MOUndpZaEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_ddsypJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddsypZZcEeyEaJojdOHDsg" x="-38" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ddsyppZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddsyp5ZcEeyEaJojdOHDsg" x="-5" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ddsyqJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddsyqZZcEeyEaJojdOHDsg" x="-2" y="42"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ddsyoZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ddsyopZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ddsyo5ZcEeyEaJojdOHDsg" points="[5, 0, -79, 101]$[47, 0, -37, 101]$[47, -101, -37, 0]$[79, -101, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ddtZsJZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ddtZsZZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_eR0-QJZcEeyEaJojdOHDsg" type="4001" element="_eRsbbJZcEeyEaJojdOHDsg" source="__aKtkpZbEeyEaJojdOHDsg" target="_MIzOQpZaEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_eR0-RJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eR0-RZZcEeyEaJojdOHDsg" x="-9" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_eR0-RpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eR0-R5ZcEeyEaJojdOHDsg" x="3" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_eR0-SJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eR0-SZZcEeyEaJojdOHDsg" x="3" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_eR0-QZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_eR0-QpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eR0-Q5ZcEeyEaJojdOHDsg" points="[5, 0, -79, 0]$[79, 0, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eR0-SpZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eR0-S5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_eqnRsJZcEeyEaJojdOHDsg" type="4001" element="_eqcSqJZcEeyEaJojdOHDsg" source="_r9FKIJZYEeyEaJojdOHDsg" target="_MDnMRJZaEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_eqnRtJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eqnRtZZcEeyEaJojdOHDsg" x="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_eqnRtpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eqnRt5ZcEeyEaJojdOHDsg" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_eqnRuJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eqnRuZZcEeyEaJojdOHDsg" x="-12" y="-18"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_eqnRsZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_eqnRspZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eqnRs5ZcEeyEaJojdOHDsg" points="[5, 0, -79, -106]$[46, 0, -38, -106]$[46, 106, -38, 0]$[79, 106, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eqn4wJZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eqn4wZZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_hG_NgJZcEeyEaJojdOHDsg" type="4001" element="_hGv8_pZcEeyEaJojdOHDsg" source="_NVMI4JZaEeyEaJojdOHDsg" target="_cUY2oJZbEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_hG_0kJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hG_0kZZcEeyEaJojdOHDsg" x="-31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_hG_0kpZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hG_0k5ZcEeyEaJojdOHDsg" x="8" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_hG_0lJZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hG_0lZZcEeyEaJojdOHDsg" x="-26" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_hG_NgZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_hG_NgpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hG_Ng5ZcEeyEaJojdOHDsg" points="[5, 0, -42, -96]$[22, 0, -25, -96]$[22, 96, -25, 0]$[42, 96, -5, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hG_0lpZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hG_0l5ZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_mt9dEJZcEeyEaJojdOHDsg" type="4001" element="_mtzsRJZcEeyEaJojdOHDsg" source="_dY19QJZbEeyEaJojdOHDsg" target="_h3OXoJZcEeyEaJojdOHDsg">
+          <children xmi:type="notation:Node" xmi:id="_mt9dFJZcEeyEaJojdOHDsg" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mt9dFZZcEeyEaJojdOHDsg" x="9" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_mt-EIJZcEeyEaJojdOHDsg" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mt-EIZZcEeyEaJojdOHDsg" x="1" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_mt-EIpZcEeyEaJojdOHDsg" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mt-EI5ZcEeyEaJojdOHDsg" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_mt9dEZZcEeyEaJojdOHDsg" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_mt9dEpZcEeyEaJojdOHDsg" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mt9dE5ZcEeyEaJojdOHDsg" points="[5, 0, -46, 0]$[41, 0, -10, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mt-EJJZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mt-EJZZcEeyEaJojdOHDsg" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_STzKMJZVEeyEaJojdOHDsg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_STzKMZZVEeyEaJojdOHDsg">
+        <computedStyleDescriptions xmi:type="style:SquareDescription" xmi:id="_LpBiAJZaEeyEaJojdOHDsg" borderSizeComputationExpression="1" borderLineStyle="dash" showIcon="false" tooltipExpression="aql:self.brickInstanceTooltip()" labelPosition="node" resizeKind="NSEW" width="12" height="8">
+          <borderColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          <labelColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
+          <color xmi:type="description:ComputedColor" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@userColorsPalettes[name=null]/@entries[name='BRICK_DEFAULT_COLOR']"/>
+        </computedStyleDescriptions>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_sQ-d4JZVEeyEaJojdOHDsg" name="Engine_1" tooltipText="Brick: Engine_1&#xA;Class name: Engine&#xA;" width="12" height="8" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_sQ3wP5ZVEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_sQ3wP5ZVEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_-IGQcJZVEeyEaJojdOHDsg" name=" " tooltipText="oMotion:     nominal_failed&#xA;&#xA;- TARGETS: &#xA;[...].Power_Supply_1.iMotion&#xA;&#xA;- ATOMIC TARGETS: &#xA;Power_Supply_1.iMotion" outgoingEdges="_A6ibhJZZEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_-IDNIJZVEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_-IDNIJZVEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_-IG3gJZVEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_P9VzsZZWEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_XTQRUpZWEeyEaJojdOHDsg" name="Power_Supply_1" tooltipText="Brick: Power_Supply_1&#xA;Class name: Power_Supply&#xA;" width="12" height="8" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_XTNOGpZWEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_XTNOGpZWEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_fV-xpJZWEeyEaJojdOHDsg" name=" " tooltipText="iMotion:     nominal_failed&#xA;&#xA;- SOURCE: &#xA;[...].Engine_1.oMotion&#xA;&#xA;- ATOMIC SOURCE: &#xA;Engine_1.oMotion" incomingEdges="_A6ibhJZZEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_fV8VYJZWEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_fV8VYJZWEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_fV_YsJZWEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_fdxbtJZWEeyEaJojdOHDsg" name=" " tooltipText="oPower:     PowerValues&#xA;&#xA;- TARGETS: &#xA;[...].Main_Computer_1.iPower&#xA;&#xA;- ATOMIC TARGETS: &#xA;Main_Computer_1.iPower" outgoingEdges="_j0JUIJZYEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_fdvmgJZWEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_fdvmgJZWEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_fdxbtZZWEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_doUEAZZYEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_jQvFFJZYEeyEaJojdOHDsg" name="Main_Computer_1" tooltipText="Brick: Main_Computer_1&#xA;Class name: Computer&#xA;" width="12" height="8" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_jQso6pZYEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_jQso6pZYEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_j0CmcJZYEeyEaJojdOHDsg" name=" " tooltipText="iPower:     PowerValues&#xA;&#xA;- SOURCE: &#xA;[...].Power_Supply_1.oPower&#xA;&#xA;- ATOMIC SOURCE: &#xA;Power_Supply_1.oPower" incomingEdges="_j0JUIJZYEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_jz7RsJZYEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_jz7RsJZYEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_j0CmcZZYEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_r88nQpZYEeyEaJojdOHDsg" name=" " tooltipText="oCommand:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Voter.iCommand_1&#xA;&#xA;- ATOMIC TARGETS: &#xA;Voter.iCommand_1" outgoingEdges="_eqcSqJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_r84845ZYEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_r84845ZYEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_r88nQ5ZYEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_EM2EVZZaEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_KCVRBpZaEeyEaJojdOHDsg" name="Voter" tooltipText="Brick: Voter&#xA;&#xA;Instance description: This voter gives nominal values if at least 2 input channels are nominal. Since we consider in this study that we can never have two erroneous appearing at exactly the same moment, when the first erroneous appears it is detected and the channel would be ignored afterwards. In this case, we do not need to consider the case with two identical erroneous.&#xA;" width="12" height="8" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_KCTb6JZaEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_KCTb6JZaEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_MDiTwJZaEeyEaJojdOHDsg" name=" " tooltipText="iCommand_1:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Main_Computer_1.oCommand&#xA;&#xA;- ATOMIC SOURCE: &#xA;Main_Computer_1.oCommand" incomingEdges="_eqcSqJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MDfQcJZaEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MDfQcJZaEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_MDiTwZZaEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_MIu805ZaEeyEaJojdOHDsg" name=" " tooltipText="iCommand_2:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Main_Computer_2.oCommand&#xA;&#xA;- ATOMIC SOURCE: &#xA;Main_Computer_2.oCommand" incomingEdges="_eRsbbJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MItHoJZaEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MItHoJZaEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_MIu81JZaEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_MOQ9FZZaEeyEaJojdOHDsg" name=" " tooltipText="iCommand_3:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Main_Computer3.oCommand&#xA;&#xA;- ATOMIC SOURCE: &#xA;Main_Computer3.oCommand" incomingEdges="_ddglgJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MOPu8JZaEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_MOPu8JZaEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_MOQ9FpZaEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_NVGCRpZaEeyEaJojdOHDsg" name=" " tooltipText="oChosen_command:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Switch.iMain_command&#xA;&#xA;- ATOMIC TARGETS: &#xA;Switch.iMain_command" outgoingEdges="_hGv8_pZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_NVC-8JZaEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_NVC-8JZaEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_NVGCR5ZaEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" uid="_LpBiApZaEeyEaJojdOHDsg" showIcon="false" description="_LpBiAJZaEeyEaJojdOHDsg" borderSize="1" borderSizeComputationExpression="1" borderLineStyle="dash" labelPosition="node" width="12" height="8" color="255,255,255"/>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_ZeMFlZZbEeyEaJojdOHDsg" name="Switch" tooltipText="Brick: Switch&#xA;&#xA;Instance description: Selection of the backup computer command when main computers are out of order.&#xA;" width="12" height="8" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_ZeJpapZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_ZeJpapZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_cUT-IpZbEeyEaJojdOHDsg" name=" " tooltipText="iMain_command:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Voter.oChosen_command&#xA;&#xA;- ATOMIC SOURCE: &#xA;Voter.oChosen_command" incomingEdges="_hGv8_pZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_cURh4JZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_cURh4JZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_cUT-I5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_cZxF5pZbEeyEaJojdOHDsg" name=" " tooltipText="iBackUp_command:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Backup_Computer.oCommand&#xA;&#xA;- ATOMIC SOURCE: &#xA;Backup_Computer.oCommand" incomingEdges="_c7xxcJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_cZv3wJZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_cZv3wJZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_cZxF55ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_dYv2qpZbEeyEaJojdOHDsg" name=" " tooltipText="iChosen_command:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Control_system.System_output&#xA;&#xA;- ATOMIC TARGETS: &#xA;System_output" outgoingEdges="_mtzsRJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_dYszUJZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_dYszUJZbEeyEaJojdOHDsg"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Dot" uid="_dYv2q5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" uid="_6wvEU5ZbEeyEaJojdOHDsg" showIcon="false" description="_LpBiAJZaEeyEaJojdOHDsg" borderSize="1" borderSizeComputationExpression="1" borderLineStyle="dash" labelPosition="node" width="12" height="8" color="255,255,255"/>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_z0DmGpZbEeyEaJojdOHDsg" name="Engine_2" tooltipText="Brick: Engine_2&#xA;Class name: Engine&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_zyPoMJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_zyPoMJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_z0ENIpZbEeyEaJojdOHDsg" name=" " tooltipText="oMotion:     nominal_failed&#xA;&#xA;- TARGETS: &#xA;[...].Power_Supply_3.iMotion&#xA;[...].Power_Supply_2.iMotion&#xA;&#xA;- ATOMIC TARGETS: &#xA;Power_Supply_3.iMotion&#xA;Power_Supply_2.iMotion" outgoingEdges="_aa3TzJZcEeyEaJojdOHDsg _bX1SUJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_zyQPQJZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_zyQPQJZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_z0ENI5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_z0DmG5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_0w7eCpZbEeyEaJojdOHDsg" name="Engine_3" tooltipText="Brick: Engine_3&#xA;Class name: Engine&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_0weyEJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_0weyEJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_0w7eDpZbEeyEaJojdOHDsg" name=" " tooltipText="oMotion:     nominal_failed&#xA;&#xA;- TARGETS: &#xA;[...].Power_Supply_4.iMotion&#xA;&#xA;- ATOMIC TARGETS: &#xA;Power_Supply_4.iMotion" outgoingEdges="_Z91ZipZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_0weyEZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_0weyEZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_0w7eD5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_0w7eC5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_2xnjbpZbEeyEaJojdOHDsg" name="Power_Supply_2" tooltipText="Brick: Power_Supply_2&#xA;Class name: Power_Supply&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_2xN6wJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_2xN6wJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_2xoKcZZbEeyEaJojdOHDsg" name=" " tooltipText="iMotion:     nominal_failed&#xA;&#xA;- SOURCE: &#xA;[...].Engine_2.oMotion&#xA;&#xA;- ATOMIC SOURCE: &#xA;Engine_2.oMotion" incomingEdges="_bX1SUJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_2xN6wZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_2xN6wZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_2xoKcpZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_2xoKdJZbEeyEaJojdOHDsg" name=" " tooltipText="oPower:     PowerValues&#xA;&#xA;- TARGETS: &#xA;[...].Main_Computer_2.iPower&#xA;&#xA;- ATOMIC TARGETS: &#xA;Main_Computer_2.iPower" outgoingEdges="_bvchIJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_2xN6wpZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_2xN6wpZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_2xoKdZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_2xnjb5ZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_3x7w7ZZbEeyEaJojdOHDsg" name="Power_Supply_3" tooltipText="Brick: Power_Supply_3&#xA;Class name: Power_Supply&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_3xed4JZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_3xed4JZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_3x8X8JZbEeyEaJojdOHDsg" name=" " tooltipText="iMotion:     nominal_failed&#xA;&#xA;- SOURCE: &#xA;[...].Engine_2.oMotion&#xA;&#xA;- ATOMIC SOURCE: &#xA;Engine_2.oMotion" incomingEdges="_aa3TzJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_3xed4ZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_3xed4ZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_3x8X8ZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_3x8X85ZbEeyEaJojdOHDsg" name=" " tooltipText="oPower:     PowerValues&#xA;&#xA;- TARGETS: &#xA;[...].Main_Computer3.iPower&#xA;&#xA;- ATOMIC TARGETS: &#xA;Main_Computer3.iPower" outgoingEdges="_cKxyQJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_3xed4pZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_3xed4pZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_3x8X9JZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_3x7w7pZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_479UDJZbEeyEaJojdOHDsg" name="Power_Supply_4" tooltipText="Brick: Power_Supply_4&#xA;Class name: Power_Supply&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_47h2MJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_47h2MJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_479UEJZbEeyEaJojdOHDsg" name=" " tooltipText="iMotion:     nominal_failed&#xA;&#xA;- SOURCE: &#xA;[...].Engine_3.oMotion&#xA;&#xA;- ATOMIC SOURCE: &#xA;Engine_3.oMotion" incomingEdges="_Z91ZipZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_47h2MZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_47h2MZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_479UEZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_4797EJZbEeyEaJojdOHDsg" name=" " tooltipText="oPower:     PowerValues&#xA;&#xA;- TARGETS: &#xA;[...].Backup_Computer.iPower&#xA;&#xA;- ATOMIC TARGETS: &#xA;Backup_Computer.iPower" outgoingEdges="_a38RYJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_47h2MpZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_47h2MpZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_4797EZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_479UDZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="__Z9SOJZbEeyEaJojdOHDsg" name="Main_Computer_2" tooltipText="Brick: Main_Computer_2&#xA;Class name: Computer&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#__ZfYIJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#__ZfYIJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="__Z9SPJZbEeyEaJojdOHDsg" name=" " tooltipText="iPower:     PowerValues&#xA;&#xA;- SOURCE: &#xA;[...].Power_Supply_2.oPower&#xA;&#xA;- ATOMIC SOURCE: &#xA;Power_Supply_2.oPower" incomingEdges="_bvchIJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#__ZfYIZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#__ZfYIZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="__Z9SPZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="__Z9SP5ZbEeyEaJojdOHDsg" name=" " tooltipText="oCommand:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Voter.iCommand_2&#xA;&#xA;- ATOMIC TARGETS: &#xA;Voter.iCommand_2" outgoingEdges="_eRsbbJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#__ZfYIpZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#__ZfYIpZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="__Z95QJZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="__Z9SOZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="__-m3cJZbEeyEaJojdOHDsg" name="Main_Computer3" tooltipText="Brick: Main_Computer3&#xA;Class name: Computer&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#__-IWQJZbEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#__-IWQJZbEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="__-m3dJZbEeyEaJojdOHDsg" name=" " tooltipText="iPower:     PowerValues&#xA;&#xA;- SOURCE: &#xA;[...].Power_Supply_3.oPower&#xA;&#xA;- ATOMIC SOURCE: &#xA;Power_Supply_3.oPower" incomingEdges="_cKxyQJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#__-I9UJZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#__-I9UJZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="__-m3dZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="__-m3d5ZbEeyEaJojdOHDsg" name=" " tooltipText="oCommand:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Voter.iCommand_3&#xA;&#xA;- ATOMIC TARGETS: &#xA;Voter.iCommand_3" outgoingEdges="_ddglgJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#__-I9UZZbEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#__-I9UZZbEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="__-m3eJZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="__-m3cZZbEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_AqEPQpZcEeyEaJojdOHDsg" name="Backup_Computer" tooltipText="Brick: Backup_Computer&#xA;Class name: Computer&#xA;" resizeKind="NSEW">
+      <target xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_Apj44JZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:AtomicBrickInstance" href="ARP4761A_Second_Example.simfia#_Apj44JZcEeyEaJojdOHDsg"/>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_AqE2Q5ZcEeyEaJojdOHDsg" name=" " tooltipText="iPower:     PowerValues&#xA;&#xA;- SOURCE: &#xA;[...].Power_Supply_4.oPower&#xA;&#xA;- ATOMIC SOURCE: &#xA;Power_Supply_4.oPower" incomingEdges="_a38RYJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_Apj44ZZcEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:InConnectorInstance" href="ARP4761A_Second_Example.simfia#_Apj44ZZcEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_AqE2RJZcEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='InConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <ownedBorderedNodes xmi:type="diagram:DNode" uid="_AqFdUJZcEeyEaJojdOHDsg" name=" " tooltipText="oCommand:     Data&#xA;&#xA;- TARGETS: &#xA;[...].Switch.iBackUp_command&#xA;&#xA;- ATOMIC TARGETS: &#xA;Switch.iBackUp_command" outgoingEdges="_c7xxcJZcEeyEaJojdOHDsg" width="1" height="1">
+        <target xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_Apj44pZcEeyEaJojdOHDsg"/>
+        <semanticElements xmi:type="altarica:OutConnectorInstance" href="ARP4761A_Second_Example.simfia#_Apj44pZcEeyEaJojdOHDsg"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_AqFdUZZcEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+          <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@borderedNodeMappings[name='OutConnectorInstance']"/>
+      </ownedBorderedNodes>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:CustomStyle" uid="_AqE2QJZcEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" borderColor="255,255,255" id="net.eads.apsys.simfia.altarica.design.brick">
+        <description xmi:type="style:CustomStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='BrickInstance']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_j0JUIJZYEeyEaJojdOHDsg" name=" " sourceNode="_fdxbtJZWEeyEaJojdOHDsg" targetNode="_j0CmcJZYEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_jz-VAZZYEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_jz-VAZZYEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_j0PawJZYEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_j0QB0JZYEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_A6ibhJZZEeyEaJojdOHDsg" name=" " sourceNode="_-IGQcJZVEeyEaJojdOHDsg" targetNode="_fV-xpJZWEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_A6djAZZZEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_A6djAZZZEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_A6ibhZZZEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_A6ibhpZZEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_Z91ZipZcEeyEaJojdOHDsg" name=" " sourceNode="_0w7eDpZbEeyEaJojdOHDsg" targetNode="_479UEJZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_Z9xvIZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_Z9xvIZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_Z91Zi5ZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_Z91ZjJZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_aa3TzJZcEeyEaJojdOHDsg" name=" " sourceNode="_z0ENIpZbEeyEaJojdOHDsg" targetNode="_3x8X8JZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_aazCUZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_aazCUZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_aa3TzZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_aa3TzpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_a38RYJZcEeyEaJojdOHDsg" name=" " sourceNode="_4797EJZbEeyEaJojdOHDsg" targetNode="_AqE2Q5ZcEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_a34m8ZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_a34m8ZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_a38RYZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_a38RYpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_bX1SUJZcEeyEaJojdOHDsg" name=" " sourceNode="_z0ENIpZbEeyEaJojdOHDsg" targetNode="_2xoKcZZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_bXxA4ZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_bXxA4ZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_bX1SUZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_bX1SUpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_bvchIJZcEeyEaJojdOHDsg" name=" " sourceNode="_2xoKdJZbEeyEaJojdOHDsg" targetNode="__Z9SPJZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_bvY2sZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_bvY2sZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_bvchIZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_bvchIpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_cKxyQJZcEeyEaJojdOHDsg" name=" " sourceNode="_3x8X85ZbEeyEaJojdOHDsg" targetNode="__-m3dJZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_cKrEgZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_cKrEgZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_cKxyQZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_cKxyQpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_c7xxcJZcEeyEaJojdOHDsg" name=" " sourceNode="_AqFdUJZcEeyEaJojdOHDsg" targetNode="_cZxF5pZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_c7uuAZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_c7uuAZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_c7yYYJZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_c7yYYZZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_ddglgJZcEeyEaJojdOHDsg" name=" " sourceNode="__-m3d5ZbEeyEaJojdOHDsg" targetNode="_MOQ9FZZaEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_ddXbcZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_ddXbcZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_ddhMcJZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_ddhMcZZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_eRsbbJZcEeyEaJojdOHDsg" name=" " sourceNode="__Z9SP5ZbEeyEaJojdOHDsg" targetNode="_MIu805ZaEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_eRoxAZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_eRoxAZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_eRsbbZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_eRsbbpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_eqcSqJZcEeyEaJojdOHDsg" name=" " sourceNode="_r88nQpZYEeyEaJojdOHDsg" targetNode="_MDiTwJZaEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_eqYBIZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_eqYBIZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_eqcSqZZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_eqcSqpZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_hGv8_pZcEeyEaJojdOHDsg" name=" " sourceNode="_NVGCRpZaEeyEaJojdOHDsg" targetNode="_cUT-IpZbEeyEaJojdOHDsg">
+      <target xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_hGlk4ZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:InstanceLink" href="ARP4761A_Second_Example.simfia#_hGlk4ZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_hGv8_5ZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_hGv9AJZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='InstanceLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_h3AVNJZcEeyEaJojdOHDsg" name="System_output" tooltipText="System_output:     Data&#xA;&#xA;- SOURCE: &#xA;[...].Switch.iChosen_command&#xA;&#xA;- ATOMIC SOURCE: &#xA;[...].System_output&#xA;&#xA;- ATOMIC TARGETS: &#xA;System_output" incomingEdges="_mtzsRJZcEeyEaJojdOHDsg" width="2" height="2">
+      <target xmi:type="altarica:OutConnector" href="ARP4761A_Second_Example.simfia#_h261oJZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:OutConnector" href="ARP4761A_Second_Example.simfia#_h261oJZcEeyEaJojdOHDsg"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Dot" uid="_h3A8QJZcEeyEaJojdOHDsg" showIcon="false" borderSize="1" borderSizeComputationExpression="1" strokeSizeComputationExpression="1" backgroundColor="0,0,0">
+        <description xmi:type="style:DotDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='HierarchicalOutConnector']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='HierarchicalOutConnector']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_mtzsRJZcEeyEaJojdOHDsg" name=" " sourceNode="_dYv2qpZbEeyEaJojdOHDsg" targetNode="_h3AVNJZcEeyEaJojdOHDsg">
+      <target xmi:type="altarica:HierarchicalOutLink" href="ARP4761A_Second_Example.simfia#_mtwBsZZcEeyEaJojdOHDsg"/>
+      <semanticElements xmi:type="altarica:HierarchicalOutLink" href="ARP4761A_Second_Example.simfia#_mtwBsZZcEeyEaJojdOHDsg"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_mt0TIJZcEeyEaJojdOHDsg" size="2" routingStyle="manhattan" centered="Both" strokeColor="0,0,0">
+        <customFeatures>routingStyle</customFeatures>
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='HierarchicalOutLink']/@conditionnalStyles.8/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_mt0TIZZcEeyEaJojdOHDsg" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@edgeMappings[name='HierarchicalOutLink']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Dygu0NhIEe2LW-F3hWRuPQ" resizeKind="NSEW">
+      <target xmi:type="altarica:Decoration" href="ARP4761A_Second_Example.simfia#_Dye5oNhIEe2LW-F3hWRuPQ"/>
+      <semanticElements xmi:type="altarica:Decoration" href="ARP4761A_Second_Example.simfia#_Dye5oNhIEe2LW-F3hWRuPQ"/>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_DyhV4NhIEe2LW-F3hWRuPQ" labelSize="12" showIcon="false" borderSize="2" borderSizeComputationExpression="2" borderColor="155,199,204" labelPosition="node" shape="providedShape" color="155,199,204" providedShapeID="net.eads.apsys.simfia.altarica.design.shape.design.Square">
+        <customFeatures>color</customFeatures>
+        <customFeatures>borderColor</customFeatures>
+        <description xmi:type="style:BundledImageDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='Decoration']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='Decoration']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_UvWDYdhIEe2LW-F3hWRuPQ" resizeKind="NSEW">
+      <target xmi:type="altarica:Decoration" href="ARP4761A_Second_Example.simfia#_UvWDYNhIEe2LW-F3hWRuPQ"/>
+      <semanticElements xmi:type="altarica:Decoration" href="ARP4761A_Second_Example.simfia#_UvWDYNhIEe2LW-F3hWRuPQ"/>
+      <ownedStyle xmi:type="diagram:BundledImage" uid="_UvWqcNhIEe2LW-F3hWRuPQ" labelSize="12" showIcon="false" borderSize="2" borderSizeComputationExpression="2" borderColor="225,225,135" labelPosition="node" shape="providedShape" color="225,225,135" providedShapeID="net.eads.apsys.simfia.altarica.design.shape.design.Square">
+        <customFeatures>color</customFeatures>
+        <customFeatures>borderColor</customFeatures>
+        <description xmi:type="style:BundledImageDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='Decoration']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer/@nodeMappings[name='Decoration']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']"/>
+    <activatedFilters xmi:type="filter:CompositeFilterDescription" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@filters[name='Activate%20layers']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_STwt8JZVEeyEaJojdOHDsg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/net.eads.apsys.simfia.altarica.design/description/altarica.odesign#//@ownedViewpoints[name='Altarica_Graphical_Edition']/@ownedRepresentations[name='Brick%20Diagram']/@defaultLayer"/>
+    <target xmi:type="altarica:CompositeBrickClass" href="ARP4761A_Second_Example.simfia#_SShX0pZVEeyEaJojdOHDsg"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

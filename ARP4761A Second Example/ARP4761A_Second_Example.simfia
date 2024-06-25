@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simfia:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:altarica="http://www.apsys.eads.net/simfia/altarica/1.0" xmlns:cutseq="http://www.apsys.eads.net/simfia/cutseq/1.0" xmlns:simfia="http://www.apsys.eads.net/simfia/1.0" xmlns:userdata="http://www.apsys.eads.net/simfia/userdata/1.0" id="_SShX0JZVEeyEaJojdOHDsg" name="ARP4761A_Second_Example" description="The whole content is provided under the following terms&#xD;&#xA;&#xD;&#xA;Copyright (c) 2024 AIRBUS Protect SAS&#xD;&#xA;&#xD;&#xA;All rights reserved. This program and the accompanying materials are made available under the terms of the &#xD;&#xA;Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) which accompanies this distribution,&#xD;&#xA;and is available at https://creativecommons.org/licenses/by-sa/4.0/" appliedUserDataDefinitions="_hWTHYNhJEe2LW-F3hWRuPQ" version="1.5.0">
+  <ownedSystem id="_SShX0ZZVEeyEaJojdOHDsg" name="Control_system" defaultClassBehavior="Repairable">
+    <top id="_SShX05ZVEeyEaJojdOHDsg" name="Control_system" compositeBrickClass="_SShX0pZVEeyEaJojdOHDsg">
+      <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_h3D_kJZcEeyEaJojdOHDsg" outConnectorType="_h261oJZcEeyEaJojdOHDsg"/>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_sREkgJZVEeyEaJojdOHDsg" name="Engine_1" originalInstance="_sQ3wP5ZVEeyEaJojdOHDsg" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_-IEbQJZVEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_sREkgZZVEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_sREkg5ZVEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_XTStkJZWEeyEaJojdOHDsg" name="Power_Supply_1" originalInstance="_XTNOGpZWEeyEaJojdOHDsg" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_fV88cJZWEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_fdvmgZZWEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_XTStkZZWEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_XTStk5ZWEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_jQ3n8JZYEeyEaJojdOHDsg" name="Main_Computer_1" originalInstance="_jQso6pZYEeyEaJojdOHDsg" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_j0R3AJZYEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_r8_DgJZYEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_jQ3n8ZZYEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_LbIscJZZEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_jQ3n85ZYEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_KCYUUJZaEeyEaJojdOHDsg" name="Voter" description="This voter gives nominal values if at least 2 input channels are nominal. Since we consider in this study that we can never have two erroneous appearing at exactly the same moment, when the first erroneous appears it is detected and the channel would be ignored afterwards. In this case, we do not need to consider the case with two identical erroneous." originalInstance="_KCTb6JZaEeyEaJojdOHDsg" atomicBrickClass="_KCS0wJZaEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MDf3gJZaEeyEaJojdOHDsg" inConnectorType="_MDa_AJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MItHoZZaEeyEaJojdOHDsg" inConnectorType="_MIqrYJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MOPu8ZZaEeyEaJojdOHDsg" inConnectorType="_MONSsJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_NVDmAJZaEeyEaJojdOHDsg" outConnectorType="_NU-GcJZaEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_ZePv8JZbEeyEaJojdOHDsg" name="Switch" description="Selection of the backup computer command when main computers are out of order." originalInstance="_ZeJpapZbEeyEaJojdOHDsg" atomicBrickClass="_ZeJCQJZbEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_cURh4ZZbEeyEaJojdOHDsg" inConnectorType="_cULbQJZbEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_cZv3wZZbEeyEaJojdOHDsg" inConnectorType="_cZs0cJZbEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_dYtaYJZbEeyEaJojdOHDsg" outConnectorType="_dYnTwJZbEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_z0GCUJZbEeyEaJojdOHDsg" name="Engine_2" originalInstance="_zyPoMJZbEeyEaJojdOHDsg" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_z0GCUZZbEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_z0GCUpZbEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_z0GCU5ZbEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_0w9TMJZbEeyEaJojdOHDsg" name="Engine_3" originalInstance="_0weyEJZbEeyEaJojdOHDsg" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_0w9TMZZbEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_0w9TMpZbEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_0w9TM5ZbEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_2xp_oJZbEeyEaJojdOHDsg" name="Power_Supply_2" originalInstance="_2xN6wJZbEeyEaJojdOHDsg" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_2xp_oZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_2xp_opZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_2xp_o5ZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_2xp_pJZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_3x-NIJZbEeyEaJojdOHDsg" name="Power_Supply_3" originalInstance="_3xed4JZbEeyEaJojdOHDsg" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_3x-NIZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_3x-NIpZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_3x-NI5ZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_3x-NJJZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_48AXUJZbEeyEaJojdOHDsg" name="Power_Supply_4" originalInstance="_47h2MJZbEeyEaJojdOHDsg" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_48AXUZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_48AXUpZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_48AXU5ZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_48AXVJZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="__Z_ucJZbEeyEaJojdOHDsg" name="Main_Computer_2" originalInstance="__ZfYIJZbEeyEaJojdOHDsg" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__Z_ucZZbEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__Z_ucpZbEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__aAVgJZbEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__aAVgZZbEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="__aAVgpZbEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="__-pToJZbEeyEaJojdOHDsg" name="Main_Computer3" originalInstance="__-IWQJZbEeyEaJojdOHDsg" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__-pToZZbEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__-pTopZbEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__-pTo5ZbEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__-pTpJZbEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="__-pTpZZbEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+      <ownedSubInstances xsi:type="altarica:AtomicBrickInstance" id="_AqH5kJZcEeyEaJojdOHDsg" name="Backup_Computer" originalInstance="_Apj44JZcEeyEaJojdOHDsg" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_AqH5kZZcEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_AqH5kpZcEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_AqH5k5ZcEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg">
+          <ownedRedefinedProbaLaw xsi:type="altarica:Exponential" id="_w1qi8dhKEe2LW-F3hWRuPQ" lambda="0.0000112" lambdaCst="_hD4sQNhKEe2LW-F3hWRuPQ"/>
+        </ownedEventInstances>
+        <ownedEventInstances id="_AqH5lJZcEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg">
+          <ownedRedefinedProbaLaw xsi:type="altarica:Exponential" id="_xpZtAdhKEe2LW-F3hWRuPQ" lambda="5.27E-7" lambdaCst="_knbEcNhKEe2LW-F3hWRuPQ"/>
+        </ownedEventInstances>
+        <ownedStateVariableInstances id="_AqH5lZZcEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubInstances>
+    </top>
+    <ownedPhases xsi:type="altarica:DefaultPhase" id="_SShX1JZVEeyEaJojdOHDsg" name="Default" missionTime="10"/>
+    <ownedObservers id="_w_XbcJZcEeyEaJojdOHDsg" name="Loss_of_control" occurenceNumber="1">
+      <expression id="_w_YCgZZcEeyEaJojdOHDsg" expression="System_output = no_data"/>
+    </ownedObservers>
+    <ownedObservers id="_zQnsYJZcEeyEaJojdOHDsg" name="Erroneous_control" occurenceNumber="1">
+      <expression id="_zQnsYpZcEeyEaJojdOHDsg" expression="System_output = erroneous_data"/>
+    </ownedObservers>
+    <userBricks xsi:type="altarica:CompositeBrickClass" id="_SShX0pZVEeyEaJojdOHDsg" name="Control_system">
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_h261oJZcEeyEaJojdOHDsg" name="System_output" domain="_ko9cQJZYEeyEaJojdOHDsg">
+        <assertion id="_mHQpcZZcEeyEaJojdOHDsg" expression="erroneous_data"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_SSimCZZVEeyEaJojdOHDsg" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_sQ3wP5ZVEeyEaJojdOHDsg" name="Engine_1" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_-IDNIJZVEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_sQ4-UJZVEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_sQ6McJZVEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_XTNOGpZWEeyEaJojdOHDsg" name="Power_Supply_1" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_fV8VYJZWEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_fdvmgJZWEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_XTNOG5ZWEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_XTNOHZZWEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_jQso6pZYEeyEaJojdOHDsg" name="Main_Computer_1" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_jz7RsJZYEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_r84845ZYEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_jQso65ZYEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_LbIFYJZZEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_jQso7ZZYEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_KCTb6JZaEeyEaJojdOHDsg" name="Voter" description="This voter gives nominal values if at least 2 input channels are nominal. Since we consider in this study that we can never have two erroneous appearing at exactly the same moment, when the first erroneous appears it is detected and the channel would be ignored afterwards. In this case, we do not need to consider the case with two identical erroneous." atomicBrickClass="_KCS0wJZaEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MDfQcJZaEeyEaJojdOHDsg" inConnectorType="_MDa_AJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MItHoJZaEeyEaJojdOHDsg" inConnectorType="_MIqrYJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_MOPu8JZaEeyEaJojdOHDsg" inConnectorType="_MONSsJZaEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_NVC-8JZaEeyEaJojdOHDsg" outConnectorType="_NU-GcJZaEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_ZeJpapZbEeyEaJojdOHDsg" name="Switch" description="Selection of the backup computer command when main computers are out of order." atomicBrickClass="_ZeJCQJZbEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_cURh4JZbEeyEaJojdOHDsg" inConnectorType="_cULbQJZbEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_cZv3wJZbEeyEaJojdOHDsg" inConnectorType="_cZs0cJZbEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_dYszUJZbEeyEaJojdOHDsg" outConnectorType="_dYnTwJZbEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_zyPoMJZbEeyEaJojdOHDsg" name="Engine_2" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_zyQPQJZbEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_zyQPQpZbEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_zyQPQZZbEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_0weyEJZbEeyEaJojdOHDsg" name="Engine_3" atomicBrickClass="_sQvNUJZVEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_0weyEZZbEeyEaJojdOHDsg" outConnectorType="_-H-7sJZVEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_0weyE5ZbEeyEaJojdOHDsg" eventType="_sQ0F0JZVEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_0weyEpZbEeyEaJojdOHDsg" stateVariableType="_sQxpkJZVEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_2xN6wJZbEeyEaJojdOHDsg" name="Power_Supply_2" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_2xN6wZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_2xN6wpZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_2xN6xJZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_2xN6w5ZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_3xed4JZbEeyEaJojdOHDsg" name="Power_Supply_3" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_3xed4ZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_3xed4pZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_3xed5JZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_3xed45ZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_47h2MJZbEeyEaJojdOHDsg" name="Power_Supply_4" atomicBrickClass="_XTMm8JZWEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_47h2MZZbEeyEaJojdOHDsg" inConnectorType="_fV4rAJZWEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_47h2MpZbEeyEaJojdOHDsg" outConnectorType="_fdsjMJZWEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_47h2NJZbEeyEaJojdOHDsg" eventType="_XTNOBJZWEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_47h2M5ZbEeyEaJojdOHDsg" stateVariableType="_XTNOAZZWEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="__ZfYIJZbEeyEaJojdOHDsg" name="Main_Computer_2" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__ZfYIZZbEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__ZfYIpZbEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__ZfYJJZbEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__ZfYJZZbEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="__ZfYI5ZbEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="__-IWQJZbEeyEaJojdOHDsg" name="Main_Computer3" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="__-I9UJZbEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="__-I9UZZbEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__-I9U5ZbEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="__-I9VJZbEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="__-I9UpZbEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedSubBricks xsi:type="altarica:AtomicBrickInstance" id="_Apj44JZcEeyEaJojdOHDsg" name="Backup_Computer" atomicBrickClass="_jQsBwJZYEeyEaJojdOHDsg">
+        <ownedConnectorInstances xsi:type="altarica:InConnectorInstance" id="_Apj44ZZcEeyEaJojdOHDsg" inConnectorType="_jz6qoJZYEeyEaJojdOHDsg"/>
+        <ownedConnectorInstances xsi:type="altarica:OutConnectorInstance" id="_Apj44pZcEeyEaJojdOHDsg" outConnectorType="_r8484JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_Apkf8JZcEeyEaJojdOHDsg" eventType="_jQso1JZYEeyEaJojdOHDsg"/>
+        <ownedEventInstances id="_Apkf8ZZcEeyEaJojdOHDsg" eventType="_LbEbAJZZEeyEaJojdOHDsg"/>
+        <ownedStateVariableInstances id="_Apj445ZcEeyEaJojdOHDsg" stateVariableType="_jQso0ZZYEeyEaJojdOHDsg"/>
+      </ownedSubBricks>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_jz-VAZZYEeyEaJojdOHDsg" source="_fdvmgJZWEeyEaJojdOHDsg" target="_jz7RsJZYEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_A6djAZZZEeyEaJojdOHDsg" source="_-IDNIJZVEeyEaJojdOHDsg" target="_fV8VYJZWEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_Z9xvIZZcEeyEaJojdOHDsg" source="_0weyEZZbEeyEaJojdOHDsg" target="_47h2MZZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_aazCUZZcEeyEaJojdOHDsg" source="_zyQPQJZbEeyEaJojdOHDsg" target="_3xed4ZZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_a34m8ZZcEeyEaJojdOHDsg" source="_47h2MpZbEeyEaJojdOHDsg" target="_Apj44ZZcEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_bXxA4ZZcEeyEaJojdOHDsg" source="_zyQPQJZbEeyEaJojdOHDsg" target="_2xN6wZZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_bvY2sZZcEeyEaJojdOHDsg" source="_2xN6wpZbEeyEaJojdOHDsg" target="__ZfYIZZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_cKrEgZZcEeyEaJojdOHDsg" source="_3xed4pZbEeyEaJojdOHDsg" target="__-I9UJZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_c7uuAZZcEeyEaJojdOHDsg" source="_Apj44pZcEeyEaJojdOHDsg" target="_cZv3wJZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_ddXbcZZcEeyEaJojdOHDsg" source="__-I9UZZbEeyEaJojdOHDsg" target="_MOPu8JZaEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_eRoxAZZcEeyEaJojdOHDsg" source="__ZfYIpZbEeyEaJojdOHDsg" target="_MItHoJZaEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_eqYBIZZcEeyEaJojdOHDsg" source="_r84845ZYEeyEaJojdOHDsg" target="_MDfQcJZaEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:InstanceLink" id="_hGlk4ZZcEeyEaJojdOHDsg" source="_NVC-8JZaEeyEaJojdOHDsg" target="_cURh4JZbEeyEaJojdOHDsg"/>
+      <ownedConnectorLinks xsi:type="altarica:HierarchicalOutLink" id="_mtwBsZZcEeyEaJojdOHDsg" target="_h261oJZcEeyEaJojdOHDsg" source="_dYszUJZbEeyEaJojdOHDsg"/>
+      <ownedDecorations id="_Dye5oNhIEe2LW-F3hWRuPQ"/>
+      <ownedDecorations id="_UvWDYNhIEe2LW-F3hWRuPQ"/>
+    </userBricks>
+    <userBricks xsi:type="altarica:AtomicBrickClass" id="_KCS0wJZaEeyEaJojdOHDsg" name="Voter" description="This voter gives nominal values if at least 2 input channels are nominal. Since we consider in this study that we can never have two erroneous appearing at exactly the same moment, when the first erroneous appears it is detected and the channel would be ignored afterwards. In this case, we do not need to consider the case with two identical erroneous." behavior="Virtual">
+      <ownedUserData id="_wpQ7INhJEe2LW-F3hWRuPQ" definition="_hWTHYNhJEe2LW-F3hWRuPQ">
+        <ownedValue xsi:type="userdata:EnumValue" id="_wpQ7IdhJEe2LW-F3hWRuPQ" value="_fqxZsdhJEe2LW-F3hWRuPQ"/>
+      </ownedUserData>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_MDa_AJZaEeyEaJojdOHDsg" name="iCommand_1" domain="_ko9cQJZYEeyEaJojdOHDsg"/>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_MIqrYJZaEeyEaJojdOHDsg" name="iCommand_2" domain="_ko9cQJZYEeyEaJojdOHDsg"/>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_MONSsJZaEeyEaJojdOHDsg" name="iCommand_3" domain="_ko9cQJZYEeyEaJojdOHDsg"/>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_NU-GcJZaEeyEaJojdOHDsg" name="oChosen_command" domain="_ko9cQJZYEeyEaJojdOHDsg">
+        <assertion id="_NU-tgZZaEeyEaJojdOHDsg" expression="if &#x9;&#x9; ((iCommand_1 != nominal_data) and (iCommand_2 != nominal_data)) &#xD;&#xA;&#x9;or ((iCommand_1 != nominal_data) and (iCommand_3 != nominal_data))&#xD;&#xA;&#x9;or ((iCommand_2 != nominal_data) and (iCommand_3 != nominal_data))&#xD;&#xA;// we do not have 2 agreeing channels&#xD;&#xA;then no_data&#xD;&#xA;// at least 2 channels are nominal so 2 consistent&#xD;&#xA;else nominal_data"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_KCS0wZZaEeyEaJojdOHDsg" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+    </userBricks>
+    <userBricks xsi:type="altarica:AtomicBrickClass" id="_ZeJCQJZbEeyEaJojdOHDsg" name="Switch" description="Selection of the backup computer command when main computers are out of order." behavior="Virtual">
+      <ownedUserData id="_xFuNoNhJEe2LW-F3hWRuPQ" definition="_hWTHYNhJEe2LW-F3hWRuPQ">
+        <ownedValue xsi:type="userdata:EnumValue" id="_xFuNodhJEe2LW-F3hWRuPQ" value="_fqxZsdhJEe2LW-F3hWRuPQ"/>
+      </ownedUserData>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_cULbQJZbEeyEaJojdOHDsg" name="iMain_command" domain="_ko9cQJZYEeyEaJojdOHDsg"/>
+      <ownedConnectors xsi:type="altarica:InConnector" id="_cZs0cJZbEeyEaJojdOHDsg" name="iBackUp_command" domain="_ko9cQJZYEeyEaJojdOHDsg"/>
+      <ownedConnectors xsi:type="altarica:OutConnector" id="_dYnTwJZbEeyEaJojdOHDsg" name="iChosen_command" domain="_ko9cQJZYEeyEaJojdOHDsg">
+        <assertion id="_dYn60ZZbEeyEaJojdOHDsg" expression="if (iMain_command = nominal_data) then iMain_command else iBackUp_command"/>
+      </ownedConnectors>
+      <ownedDefaultStyle id="_ZeJpUJZbEeyEaJojdOHDsg" name="Default">
+        <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+      </ownedDefaultStyle>
+    </userBricks>
+    <defaultDomain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+    <defaultColor href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+  </ownedSystem>
+  <ownedLibrary id="_SShX1ZZVEeyEaJojdOHDsg" name="ARP4761A_Second_Example">
+    <ownedLibraries id="_3uj7gJZVEeyEaJojdOHDsg" name="Numerical values">
+      <ownedConstants id="_5CRmIJZVEeyEaJojdOHDsg" name="lambda engine stop" valueType="DECIMAL_VALUE" DecimalValue="0.0000123"/>
+      <ownedConstants id="_b8rTgJZWEeyEaJojdOHDsg" name="lambda power supply" valueType="DECIMAL_VALUE" DecimalValue="0.0000646"/>
+      <ownedConstants id="_CyO88JZZEeyEaJojdOHDsg" name="lambda computer loss" valueType="DECIMAL_VALUE" DecimalValue="0.0000363"/>
+      <ownedConstants id="_FLvK8JZZEeyEaJojdOHDsg" name="lambda computer erroneous" valueType="DECIMAL_VALUE" DecimalValue="0.00000427"/>
+      <ownedConstants id="_hD4sQNhKEe2LW-F3hWRuPQ" name="lambda backup computer loss" valueType="DECIMAL_VALUE" DecimalValue="0.0000112"/>
+      <ownedConstants id="_knbEcNhKEe2LW-F3hWRuPQ" name="lambda backup computer erroneous" valueType="DECIMAL_VALUE" DecimalValue="5.27E-7"/>
+    </ownedLibraries>
+    <ownedLibraries id="_iEeYMJZWEeyEaJojdOHDsg" name="Domains">
+      <ownedDomains xsi:type="altarica:EnumDomain" id="_jh9C0JZWEeyEaJojdOHDsg" name="PowerValues">
+        <ownedLiteral id="_jh9C0ZZWEeyEaJojdOHDsg" name="power">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_zc6tgub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+        <ownedLiteral id="_jh9C0pZWEeyEaJojdOHDsg" name="noPower" type="Failed">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_wvgFAub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+      </ownedDomains>
+      <ownedDomains xsi:type="altarica:EnumDomain" id="_ko9cQJZYEeyEaJojdOHDsg" name="Data">
+        <ownedLiteral id="_ko9cQZZYEeyEaJojdOHDsg" name="nominal_data">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_zc6tgub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+        <ownedLiteral id="_ko9cQpZYEeyEaJojdOHDsg" name="no_data" type="Degraded">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_ANNwMub9EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+        <ownedLiteral id="_na7NkJZYEeyEaJojdOHDsg" name="erroneous_data" type="Failed">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_46Ybwub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+      </ownedDomains>
+      <ownedDomains xsi:type="altarica:EnumDomain" id="_3j-UwJZYEeyEaJojdOHDsg" name="Computer">
+        <ownedLiteral id="_3j-70JZYEeyEaJojdOHDsg" name="nominal">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_zc6tgub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+        <ownedLiteral id="_3j-70ZZYEeyEaJojdOHDsg" name="lost" type="Degraded">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_ANNwMub9EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+        <ownedLiteral id="_9pyccJZYEeyEaJojdOHDsg" name="erroneous" type="Failed">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_46Ybwub8EeaavZcS0G3Ynw"/>
+        </ownedLiteral>
+      </ownedDomains>
+    </ownedLibraries>
+    <ownedLibraries id="_saL8sB7rEe2a_7hD6xcHnQ" name="Equipment">
+      <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_jQsBwJZYEeyEaJojdOHDsg" name="Computer">
+        <ownedUserData id="_upe0sNhJEe2LW-F3hWRuPQ" definition="_hWTHYNhJEe2LW-F3hWRuPQ">
+          <ownedValue xsi:type="userdata:EnumValue" id="_upe0sdhJEe2LW-F3hWRuPQ" value="_mFah4NhJEe2LW-F3hWRuPQ"/>
+        </ownedUserData>
+        <ownedConnectors xsi:type="altarica:InConnector" id="_jz6qoJZYEeyEaJojdOHDsg" name="iPower" domain="_jh9C0JZWEeyEaJojdOHDsg"/>
+        <ownedConnectors xsi:type="altarica:OutConnector" id="_r8484JZYEeyEaJojdOHDsg" name="oCommand" domain="_ko9cQJZYEeyEaJojdOHDsg">
+          <assertion id="_r8484pZYEeyEaJojdOHDsg" expression="&#x9;&#x9;if (state1 = lost) &#xD;&#xA;&#x9;&#x9;&#x9;// no matter the input, we have no output data&#xD;&#xA;&#x9;&#x9;&#x9;then no_data&#xD;&#xA;else if (state1 = erroneous) and (iPower = power) &#xD;&#xA;&#x9;&#x9;&#x9;// we produce erroneous data&#xD;&#xA;&#x9;&#x9;&#x9;then erroneous_data&#xD;&#xA;else if (state1 = nominal) and (iPower = power) &#xD;&#xA;&#x9;&#x9;&#x9;// everything is nominal&#xD;&#xA;&#x9;&#x9;&#x9;then nominal_data&#xD;&#xA;// last cases are when not being powered&#xD;&#xA;else no_data"/>
+        </ownedConnectors>
+        <ownedDefaultStyle id="_jQso0JZYEeyEaJojdOHDsg" name="Default" image="_D3Rc8JZaEeyEaJojdOHDsg">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+          <ownedLayout id="_uSVp8JZbEeyEaJojdOHDsg" height="141" width="104">
+            <ownedConnectorPositions id="_uSVp8pZbEeyEaJojdOHDsg" x="-10" y="65" connector="_jz6qoJZYEeyEaJojdOHDsg"/>
+            <ownedConnectorPositions id="_uSVp85ZbEeyEaJojdOHDsg" x="120" y="65" connector="_r8484JZYEeyEaJojdOHDsg"/>
+            <nameLabelPosition id="_uSVp8ZZbEeyEaJojdOHDsg" y="5"/>
+          </ownedLayout>
+        </ownedDefaultStyle>
+        <ownedStateVariables id="_jQso0ZZYEeyEaJojdOHDsg" name="state1" domain="_3j-UwJZYEeyEaJojdOHDsg">
+          <initialValue id="_jQso05ZYEeyEaJojdOHDsg" expression="nominal"/>
+        </ownedStateVariables>
+        <ownedEvents id="_jQso1JZYEeyEaJojdOHDsg" name="fail_loss">
+          <ownedProbaLaw xsi:type="altarica:Exponential" id="_jQso1pZYEeyEaJojdOHDsg" lambda="0.0000363" lambdaCst="_CyO88JZZEeyEaJojdOHDsg"/>
+        </ownedEvents>
+        <ownedEvents id="_LbEbAJZZEeyEaJojdOHDsg" name="fail_erroneous">
+          <ownedProbaLaw xsi:type="altarica:Exponential" id="_LbEbApZZEeyEaJojdOHDsg" lambda="0.00000427" lambdaCst="_FLvK8JZZEeyEaJojdOHDsg"/>
+        </ownedEvents>
+        <ownedTransitions id="_jQso2JZYEeyEaJojdOHDsg" event="_jQso1JZYEeyEaJojdOHDsg" effectsExpression="state1 := lost">
+          <effects id="_LSqF4ZZZEeyEaJojdOHDsg" assignedVariable="_jQso0ZZYEeyEaJojdOHDsg">
+            <expression id="_LSqF45ZZEeyEaJojdOHDsg" expression="lost"/>
+          </effects>
+          <guard id="_jQso2pZYEeyEaJojdOHDsg" expression="state1 = nominal"/>
+        </ownedTransitions>
+        <ownedTransitions id="_LbEbBJZZEeyEaJojdOHDsg" event="_LbEbAJZZEeyEaJojdOHDsg" effectsExpression="state1 := erroneous">
+          <effects id="_OYB7YZZZEeyEaJojdOHDsg" assignedVariable="_jQso0ZZYEeyEaJojdOHDsg">
+            <expression id="_OYB7Y5ZZEeyEaJojdOHDsg" expression="erroneous"/>
+          </effects>
+          <guard id="_LbEbBpZZEeyEaJojdOHDsg" expression="(state1 = nominal)"/>
+        </ownedTransitions>
+      </ownedBricks>
+      <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_sQvNUJZVEeyEaJojdOHDsg" name="Engine">
+        <ownedUserData id="_trvaENhJEe2LW-F3hWRuPQ" definition="_hWTHYNhJEe2LW-F3hWRuPQ">
+          <ownedValue xsi:type="userdata:EnumValue" id="_trwBINhJEe2LW-F3hWRuPQ" value="_lhTvQNhJEe2LW-F3hWRuPQ"/>
+        </ownedUserData>
+        <ownedConnectors xsi:type="altarica:OutConnector" id="_-H-7sJZVEeyEaJojdOHDsg" name="oMotion">
+          <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+          <assertion id="_-IAJ0ZZVEeyEaJojdOHDsg" expression="if (state1 = failed) then failed else nominal"/>
+        </ownedConnectors>
+        <ownedDefaultStyle id="_sQwbcJZVEeyEaJojdOHDsg" name="Default" image="_PteywJZWEeyEaJojdOHDsg">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+          <ownedLayout id="_s9RUcJZbEeyEaJojdOHDsg" height="118" width="112">
+            <ownedConnectorPositions id="_s9XbEJZbEeyEaJojdOHDsg" x="120" y="54" connector="_-H-7sJZVEeyEaJojdOHDsg"/>
+            <nameLabelPosition id="_s9U-0JZbEeyEaJojdOHDsg" x="40" y="-14"/>
+          </ownedLayout>
+        </ownedDefaultStyle>
+        <ownedStateVariables id="_sQxpkJZVEeyEaJojdOHDsg" name="state1">
+          <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+          <initialValue id="_sQyQoZZVEeyEaJojdOHDsg" expression="nominal"/>
+        </ownedStateVariables>
+        <ownedEvents id="_sQ0F0JZVEeyEaJojdOHDsg" name="fail_stop">
+          <ownedProbaLaw xsi:type="altarica:Exponential" id="_sQ17AZZVEeyEaJojdOHDsg" lambda="0.0000123" lambdaCst="_5CRmIJZVEeyEaJojdOHDsg"/>
+        </ownedEvents>
+        <ownedTransitions id="_sQ3JIZZVEeyEaJojdOHDsg" event="_sQ0F0JZVEeyEaJojdOHDsg" effectsExpression="state1 := failed">
+          <effects id="_sQ3wMZZVEeyEaJojdOHDsg" assignedVariable="_sQxpkJZVEeyEaJojdOHDsg">
+            <expression id="_sQ3wM5ZVEeyEaJojdOHDsg" expression="failed"/>
+          </effects>
+          <guard id="_sQ3JI5ZVEeyEaJojdOHDsg" expression="state1 = nominal"/>
+        </ownedTransitions>
+      </ownedBricks>
+      <ownedBricks xsi:type="altarica:AtomicBrickClass" id="_XTMm8JZWEeyEaJojdOHDsg" name="Power_Supply">
+        <ownedUserData id="_uJWjINhJEe2LW-F3hWRuPQ" definition="_hWTHYNhJEe2LW-F3hWRuPQ">
+          <ownedValue xsi:type="userdata:EnumValue" id="_uJWjIdhJEe2LW-F3hWRuPQ" value="_l0UK0NhJEe2LW-F3hWRuPQ"/>
+        </ownedUserData>
+        <ownedConnectors xsi:type="altarica:InConnector" id="_fV4rAJZWEeyEaJojdOHDsg" name="iMotion">
+          <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+        </ownedConnectors>
+        <ownedConnectors xsi:type="altarica:OutConnector" id="_fdsjMJZWEeyEaJojdOHDsg" name="oPower" domain="_jh9C0JZWEeyEaJojdOHDsg">
+          <assertion id="_fdsjMpZWEeyEaJojdOHDsg" expression="if ((iMotion = failed) or (state1 = failed)) then noPower else power"/>
+        </ownedConnectors>
+        <ownedDefaultStyle id="_XTNOAJZWEeyEaJojdOHDsg" name="Default" image="_c2jP4JZYEeyEaJojdOHDsg">
+          <color href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_KvLTEub9EeaavZcS0G3Ynw"/>
+          <ownedLayout id="_tqyhwJZbEeyEaJojdOHDsg" height="64" width="64">
+            <ownedConnectorPositions id="_tqyhwpZbEeyEaJojdOHDsg" x="-10" y="27" connector="_fV4rAJZWEeyEaJojdOHDsg"/>
+            <ownedConnectorPositions id="_tqyhw5ZbEeyEaJojdOHDsg" x="120" y="27" connector="_fdsjMJZWEeyEaJojdOHDsg"/>
+            <nameLabelPosition id="_tqyhwZZbEeyEaJojdOHDsg" y="5"/>
+          </ownedLayout>
+        </ownedDefaultStyle>
+        <ownedStateVariables id="_XTNOAZZWEeyEaJojdOHDsg" name="state1">
+          <domain xsi:type="altarica:EnumDomain" href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_TIwnieiaEeacdt7aPZQgYg"/>
+          <initialValue id="_XTNOA5ZWEeyEaJojdOHDsg" expression="nominal"/>
+        </ownedStateVariables>
+        <ownedEvents id="_XTNOBJZWEeyEaJojdOHDsg" name="failure">
+          <ownedProbaLaw xsi:type="altarica:Exponential" id="_XTNOBpZWEeyEaJojdOHDsg" lambda="0.0000646" lambdaCst="_b8rTgJZWEeyEaJojdOHDsg"/>
+        </ownedEvents>
+        <ownedTransitions id="_XTNOCJZWEeyEaJojdOHDsg" event="_XTNOBJZWEeyEaJojdOHDsg" effectsExpression="state1 := failed">
+          <effects id="_XTNODJZWEeyEaJojdOHDsg" assignedVariable="_XTNOAZZWEeyEaJojdOHDsg">
+            <expression id="_XTNODpZWEeyEaJojdOHDsg" expression="failed"/>
+          </effects>
+          <guard id="_XTNOCpZWEeyEaJojdOHDsg" expression="state1 = nominal"/>
+        </ownedTransitions>
+      </ownedBricks>
+    </ownedLibraries>
+    <ownedLibraries id="_d4N28NhJEe2LW-F3hWRuPQ" name="User data">
+      <ownedUserDataDefinitions id="_hWTHYNhJEe2LW-F3hWRuPQ" name="Supplier" type="_fqwLkNhJEe2LW-F3hWRuPQ">
+        <applicability>Brick</applicability>
+        <defaultValue xsi:type="userdata:EnumValue" id="_iho5INhJEe2LW-F3hWRuPQ" value="_fqxZsNhJEe2LW-F3hWRuPQ"/>
+      </ownedUserDataDefinitions>
+      <ownedUserDataTypes xsi:type="userdata:EnumDataType" id="_fqwLkNhJEe2LW-F3hWRuPQ" name="Suppliers list" type="Enum">
+        <ownedLiterals id="_fqxZsNhJEe2LW-F3hWRuPQ" name="TBD"/>
+        <ownedLiterals id="_fqxZsdhJEe2LW-F3hWRuPQ" name="N.A."/>
+        <ownedLiterals id="_lhTvQNhJEe2LW-F3hWRuPQ" name="Supplier A"/>
+        <ownedLiterals id="_l0UK0NhJEe2LW-F3hWRuPQ" name="Supplier B"/>
+        <ownedLiterals id="_mFah4NhJEe2LW-F3hWRuPQ" name="Supplier C"/>
+        <ownedLiterals id="_mYbkgNhJEe2LW-F3hWRuPQ" name="Supplier D"/>
+      </ownedUserDataTypes>
+    </ownedLibraries>
+    <ownedImages id="_PteywJZWEeyEaJojdOHDsg" name="engine" path="pictures/engine.png"/>
+    <ownedImages id="_c2jP4JZYEeyEaJojdOHDsg" name="808505_electric_electronics_power_power supply_technology_icon" path="pictures/808505_electric_electronics_power_power supply_technology_icon.png"/>
+    <ownedImages id="_D3Rc8JZaEeyEaJojdOHDsg" name="PU" path="pictures/PU.png"/>
+  </ownedLibrary>
+  <sharedLibraries href="platform:/plugin/net.eads.apsys.simfia.rcp/model/system.library.simfia#_k3S9YOb7EeaavZcS0G3Ynw"/>
+  <ownedSequencesComputations id="_CAZTgJZdEeyEaJojdOHDsg" name="FC1 : Erroneous system output" phase="_SShX1JZVEeyEaJojdOHDsg" maxOrder="5" typeGeneration="Exploration" typeFiltering="MinimalCuts" typeProbability="Classic" fearedSituation="_zQnsYJZcEeyEaJojdOHDsg" sequencesObsolete="false" probaObsolete="false" rulesObsolete="false">
+    <ownedChecks xsi:type="cutseq:CheckNoSingleFailure" id="_zPevcNhJEe2LW-F3hWRuPQ"/>
+    <ownedChecks xsi:type="cutseq:CheckOrder" id="_0YhbINhJEe2LW-F3hWRuPQ" userData="_hWTHYNhJEe2LW-F3hWRuPQ"/>
+    <ownedResults id="_MeMK4NhbEe2LW-F3hWRuPQ" name="FC1 : Erroneous system output" launchDate="2023-04-11T13:22:49.281+0200" state="COMPLETED" externalId="7" participatingEvents="_XTStkZZWEeyEaJojdOHDsg _z0GCUpZbEeyEaJojdOHDsg __aAVgJZbEeyEaJojdOHDsg _AqH5lJZcEeyEaJojdOHDsg __-pTpJZbEeyEaJojdOHDsg _3x-NI5ZbEeyEaJojdOHDsg _sREkgZZVEeyEaJojdOHDsg __-pTo5ZbEeyEaJojdOHDsg _jQ3n8ZZYEeyEaJojdOHDsg _2xp_o5ZbEeyEaJojdOHDsg _LbIscJZZEeyEaJojdOHDsg __aAVgZZbEeyEaJojdOHDsg" computedProbability="6.66975362828709700640558741221050273501032665088808449435400573760834104176621523631862473437247314592092454838799000675428516471349139025033866597754481159552123247463066797760166896590193882216847665246802769837414226472560585534665733575820922851562500E-10" cutsSequencesState="COMPLETED" probabilityState="COMPLETED" checksState="COMPLETED">
+      <defaultRule id="_MeMK4dhbEe2LW-F3hWRuPQ"/>
+    </ownedResults>
+  </ownedSequencesComputations>
+  <ownedSequencesComputations id="_CGvMEJZdEeyEaJojdOHDsg" name="FC2 : Lost system output" phase="_SShX1JZVEeyEaJojdOHDsg" maxOrder="5" typeGeneration="Exploration" typeFiltering="MinimalCuts" fearedSituation="_w_XbcJZcEeyEaJojdOHDsg" sequencesObsolete="false" probaObsolete="false" rulesObsolete="false">
+    <ownedResults id="_MeMK4thbEe2LW-F3hWRuPQ" name="FC2 : Lost system output" launchDate="2023-04-11T13:22:49.719+0200" state="COMPLETED" externalId="8" participatingEvents="_XTStkZZWEeyEaJojdOHDsg _z0GCUpZbEeyEaJojdOHDsg __aAVgJZbEeyEaJojdOHDsg _AqH5k5ZcEeyEaJojdOHDsg _sREkgZZVEeyEaJojdOHDsg _jQ3n8ZZYEeyEaJojdOHDsg _48AXU5ZbEeyEaJojdOHDsg __-pTpJZbEeyEaJojdOHDsg _3x-NI5ZbEeyEaJojdOHDsg __-pTo5ZbEeyEaJojdOHDsg _2xp_o5ZbEeyEaJojdOHDsg _LbIscJZZEeyEaJojdOHDsg __aAVgZZbEeyEaJojdOHDsg _0w9TMpZbEeyEaJojdOHDsg" cutsSequencesState="COMPLETED" probabilityState="COMPLETED" checksState="COMPLETED">
+      <defaultRule id="_MeMK49hbEe2LW-F3hWRuPQ"/>
+    </ownedResults>
+  </ownedSequencesComputations>
+</simfia:Project>
