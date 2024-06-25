@@ -1,0 +1,3760 @@
+{
+  "codeAltaricaAbsolu": "main.Unreliability",
+  "nomType": "End value",
+  "statistiqueObserver": [
+    {
+      "temps": 0.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 24.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 48.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 72.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 96.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 120.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 144.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 168.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 192.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 216.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 240.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 264.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 288.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 312.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 336.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 360.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 384.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 408.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 432.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 456.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 480.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 504.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 528.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 552.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 576.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 600.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 624.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 648.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 672.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 696.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 720.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 744.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 768.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 792.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 816.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 840.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 864.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 888.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 912.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 936.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 960.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 984.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1008.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1032.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1056.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1080.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1104.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1128.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1152.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1176.0,
+      "moyenne": 0,
+      "ecartType": 0.0,
+      "theoreticalConfidenceMin": 0,
+      "theoreticalConfidenceMax": 0,
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "temps": 1200.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1224.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1248.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1272.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1296.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1320.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1344.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1368.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1392.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1416.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1440.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1464.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1488.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1512.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1536.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1560.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1584.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1608.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1632.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1656.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1680.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1704.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1728.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1752.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1776.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1800.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1824.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1848.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1872.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1896.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1920.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1944.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1968.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 1992.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2016.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2040.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2064.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2088.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2112.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2136.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2160.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2184.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2208.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2232.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2256.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2280.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2304.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2328.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2352.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2376.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2400.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2424.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2448.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2472.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2496.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2520.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2544.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2568.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2592.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2616.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2640.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2664.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2688.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2712.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2736.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2760.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2784.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2808.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2832.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2856.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2880.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2904.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2928.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2952.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 2976.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3000.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3024.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3048.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3072.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3096.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3120.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3144.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3168.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3192.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3216.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3240.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3264.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3288.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3312.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3336.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3360.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3384.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3408.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3432.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3456.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3480.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3504.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3528.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3552.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3576.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3600.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3624.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3648.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3672.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3696.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3720.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3744.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3768.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3792.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3816.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3840.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3864.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3888.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3912.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3936.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3960.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 3984.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4008.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4032.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4056.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4080.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4104.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4128.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4152.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4176.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4200.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4224.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4248.0,
+      "moyenne": 0.00001,
+      "ecartType": 0.0031617308154466366,
+      "theoreticalConfidenceMin": -0.00000959661062129958819056699273532723,
+      "theoreticalConfidenceMax": 0.00002959661062129958819056699273532723,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4272.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4296.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4320.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4344.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4368.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4392.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4416.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4440.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4464.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4488.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4512.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4536.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4560.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4584.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4608.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4632.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4656.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4680.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4704.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4728.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4752.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4776.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4800.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4824.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4848.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4872.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4896.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4920.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4944.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4968.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 4992.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5016.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5040.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5064.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5088.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5112.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5136.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5160.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5184.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5208.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5232.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5256.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5280.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5304.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5328.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5352.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5376.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5400.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5424.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5448.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5472.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5496.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5520.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5544.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5568.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5592.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5616.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5640.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5664.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5688.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5712.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5736.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5760.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5784.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5808.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5832.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5856.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5880.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5904.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5928.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5952.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 5976.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6000.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6024.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6048.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6072.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6096.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6120.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6144.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6168.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6192.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6216.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6240.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6264.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6288.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6312.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6336.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6360.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6384.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6408.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6432.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6456.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6480.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6504.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6528.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6552.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6576.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6600.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6624.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6648.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6672.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6696.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6720.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6744.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6768.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6792.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6816.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6840.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6864.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6888.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6912.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6936.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6960.0,
+      "moyenne": 0.00002,
+      "ecartType": 0.004471424491818731,
+      "theoreticalConfidenceMin": -0.00000771417612803191535977661028806906,
+      "theoreticalConfidenceMax": 0.00004771417612803191535977661028806906,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 6984.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7008.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7032.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7056.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7080.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7104.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7128.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7152.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7176.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7200.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7224.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7248.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7272.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7296.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7320.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7344.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7368.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7392.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7416.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7440.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7464.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7488.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7512.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7536.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7560.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7584.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7608.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7632.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7656.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7680.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7704.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7728.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7752.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7776.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7800.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7824.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7848.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7872.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7896.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7920.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7944.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7968.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 7992.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8016.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8040.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8064.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8088.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8112.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8136.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8160.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8184.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8208.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8232.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8256.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8280.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8304.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8328.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8352.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8376.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8400.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8424.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8448.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8472.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8496.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8520.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8544.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8568.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8592.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8616.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8640.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8664.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8688.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8712.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8736.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8760.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8784.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8808.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8832.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8856.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8880.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8904.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8928.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8952.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 8976.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9000.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9024.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9048.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9072.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9096.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9120.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9144.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9168.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9192.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9216.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9240.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9264.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9288.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9312.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9336.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9360.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9384.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9408.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9432.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9456.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9480.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9504.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9528.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9552.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9576.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9600.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9624.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9648.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9672.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9696.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9720.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9744.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9768.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9792.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9816.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9840.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9864.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9888.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9912.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9936.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9960.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    },
+    {
+      "temps": 9984.0,
+      "moyenne": 0.00003,
+      "ecartType": 0.005475665230466852,
+      "theoreticalConfidenceMin": -0.00000393852471241748707933920909796887,
+      "theoreticalConfidenceMax": 0.00006393852471241748707933920909796887,
+      "minValue": 0,
+      "maxValue": 1
+    }
+  ],
+  "occurrenceNumber": 0
+}
